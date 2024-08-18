@@ -1,0 +1,5910 @@
+[
+ {
+  "CD_MUN": 2100154,
+  "NM_MUN": "ÁGUA DOCE DO MARANHÃO"
+ },
+ {
+  "CD_MUN": 2100907,
+  "NM_MUN": "Araioses"
+ },
+ {
+  "CD_MUN": 2101509,
+  "NM_MUN": "BARÃO DE GRAJAÚ"
+ },
+ {
+  "CD_MUN": 2102101,
+  "NM_MUN": "BREJO"
+ },
+ {
+  "CD_MUN": 2102200,
+  "NM_MUN": "BURITI"
+ },
+ {
+  "CD_MUN": 2103000,
+  "NM_MUN": "CAXIAS"
+ },
+ {
+  "CD_MUN": 2106300,
+  "NM_MUN": "MAGALHÃES DE ALMEIDA"
+ },
+ {
+  "CD_MUN": 2106607,
+  "NM_MUN": "MATÕES"
+ },
+ {
+  "CD_MUN": 2106672,
+  "NM_MUN": "MILAGRES DO MARANHÃO"
+ },
+ {
+  "CD_MUN": 2107803,
+  "NM_MUN": "PARNARAMA"
+ },
+ {
+  "CD_MUN": 2110104,
+  "NM_MUN": "SANTA QUITÉRIA DO MARANHÃO"
+ },
+ {
+  "CD_MUN": 2110237,
+  "NM_MUN": "SANTANA DO MARANHÃO"
+ },
+ {
+  "CD_MUN": 2110609,
+  "NM_MUN": "SÃO BERNARDO"
+ },
+ {
+  "CD_MUN": 2110906,
+  "NM_MUN": "SÃO FRANCISCO DO MARANHÃO"
+ },
+ {
+  "CD_MUN": 2112209,
+  "NM_MUN": "Timon"
+ },
+ {
+  "CD_MUN": 2112506,
+  "NM_MUN": "TUTÓIA"
+ },
+ {
+  "CD_MUN": 2200053,
+  "NM_MUN": "Acauã"
+ },
+ {
+  "CD_MUN": 2200103,
+  "NM_MUN": "AGRICOLÂNDIA"
+ },
+ {
+  "CD_MUN": 2200202,
+  "NM_MUN": "ÁGUA BRANCA"
+ },
+ {
+  "CD_MUN": 2200251,
+  "NM_MUN": "Alagoinha do Piauí"
+ },
+ {
+  "CD_MUN": 2200277,
+  "NM_MUN": "Alegrete do Piauí"
+ },
+ {
+  "CD_MUN": 2200301,
+  "NM_MUN": "Alto Longá"
+ },
+ {
+  "CD_MUN": 2200400,
+  "NM_MUN": "Altos"
+ },
+ {
+  "CD_MUN": 2200459,
+  "NM_MUN": "Alvorada do Gurguéia"
+ },
+ {
+  "CD_MUN": 2200509,
+  "NM_MUN": "Amarante"
+ },
+ {
+  "CD_MUN": 2200608,
+  "NM_MUN": "Angical do Piauí"
+ },
+ {
+  "CD_MUN": 2200707,
+  "NM_MUN": "Anísio de Abreu"
+ },
+ {
+  "CD_MUN": 2200905,
+  "NM_MUN": "Aroazes"
+ },
+ {
+  "CD_MUN": 2200954,
+  "NM_MUN": "Aroeiras do Itaim"
+ },
+ {
+  "CD_MUN": 2201002,
+  "NM_MUN": "Arraial"
+ },
+ {
+  "CD_MUN": 2201051,
+  "NM_MUN": "Assunção do Piauí"
+ },
+ {
+  "CD_MUN": 2201101,
+  "NM_MUN": "Avelino Lopes"
+ },
+ {
+  "CD_MUN": 2201176,
+  "NM_MUN": "Barra D'Alcântara"
+ },
+ {
+  "CD_MUN": 2201200,
+  "NM_MUN": "Barras"
+ },
+ {
+  "CD_MUN": 2201309,
+  "NM_MUN": "BARREIRAS DO PIAUÍ"
+ },
+ {
+  "CD_MUN": 2201408,
+  "NM_MUN": "BARRO DURO"
+ },
+ {
+  "CD_MUN": 2201507,
+  "NM_MUN": "Batalha"
+ },
+ {
+  "CD_MUN": 2201556,
+  "NM_MUN": "Bela Vista do Piauí"
+ },
+ {
+  "CD_MUN": 2201572,
+  "NM_MUN": "Belém do Piauí"
+ },
+ {
+  "CD_MUN": 2201606,
+  "NM_MUN": "Beneditinos"
+ },
+ {
+  "CD_MUN": 2201705,
+  "NM_MUN": "Bertolínia"
+ },
+ {
+  "CD_MUN": 2201739,
+  "NM_MUN": "Betânia do Piauí"
+ },
+ {
+  "CD_MUN": 2201770,
+  "NM_MUN": "Boa Hora"
+ },
+ {
+  "CD_MUN": 2201804,
+  "NM_MUN": "Bocaina"
+ },
+ {
+  "CD_MUN": 2201903,
+  "NM_MUN": "Bom Jesus"
+ },
+ {
+  "CD_MUN": 2201919,
+  "NM_MUN": "Bom Princípio do Piauí"
+ },
+ {
+  "CD_MUN": 2201929,
+  "NM_MUN": "Bonfim do Piauí"
+ },
+ {
+  "CD_MUN": 2201945,
+  "NM_MUN": "Boqueirão do Piauí"
+ },
+ {
+  "CD_MUN": 2201960,
+  "NM_MUN": "Brasileira"
+ },
+ {
+  "CD_MUN": 2201988,
+  "NM_MUN": "Brejo do Piauí"
+ },
+ {
+  "CD_MUN": 2202000,
+  "NM_MUN": "Buriti dos Lopes"
+ },
+ {
+  "CD_MUN": 2202026,
+  "NM_MUN": "Buriti dos Montes"
+ },
+ {
+  "CD_MUN": 2202059,
+  "NM_MUN": "Cabeceiras do Piauí"
+ },
+ {
+  "CD_MUN": 2202075,
+  "NM_MUN": "Cajazeiras do Piauí"
+ },
+ {
+  "CD_MUN": 2202091,
+  "NM_MUN": "Caldeirão Grande do Piauí"
+ },
+ {
+  "CD_MUN": 2202109,
+  "NM_MUN": "Campinas do Piauí"
+ },
+ {
+  "CD_MUN": 2202117,
+  "NM_MUN": "Campo Alegre do Fidalgo"
+ },
+ {
+  "CD_MUN": 2202133,
+  "NM_MUN": "Campo Grande do Piauí"
+ },
+ {
+  "CD_MUN": 2202174,
+  "NM_MUN": "CAMPO LARGO DO PIAUÍ"
+ },
+ {
+  "CD_MUN": 2202208,
+  "NM_MUN": "Campo Maior"
+ },
+ {
+  "CD_MUN": 2202251,
+  "NM_MUN": "Canavieira"
+ },
+ {
+  "CD_MUN": 2202307,
+  "NM_MUN": "Canto do Buriti"
+ },
+ {
+  "CD_MUN": 2202406,
+  "NM_MUN": "Capitão de Campos"
+ },
+ {
+  "CD_MUN": 2202455,
+  "NM_MUN": "Capitão Gervásio Oliveira"
+ },
+ {
+  "CD_MUN": 2202505,
+  "NM_MUN": "Caracol"
+ },
+ {
+  "CD_MUN": 2202539,
+  "NM_MUN": "Caraúbas do Piauí"
+ },
+ {
+  "CD_MUN": 2202554,
+  "NM_MUN": "Caridade do Piauí"
+ },
+ {
+  "CD_MUN": 2202604,
+  "NM_MUN": "Castelo do Piauí"
+ },
+ {
+  "CD_MUN": 2202653,
+  "NM_MUN": "Caxingó"
+ },
+ {
+  "CD_MUN": 2202703,
+  "NM_MUN": "Cocal"
+ },
+ {
+  "CD_MUN": 2202711,
+  "NM_MUN": "Cocal de Telha"
+ },
+ {
+  "CD_MUN": 2202729,
+  "NM_MUN": "Cocal dos Alves"
+ },
+ {
+  "CD_MUN": 2202737,
+  "NM_MUN": "Coivaras"
+ },
+ {
+  "CD_MUN": 2202752,
+  "NM_MUN": "Colônia do Gurguéia"
+ },
+ {
+  "CD_MUN": 2202778,
+  "NM_MUN": "Colônia do Piauí"
+ },
+ {
+  "CD_MUN": 2202802,
+  "NM_MUN": "Conceição do Canindé"
+ },
+ {
+  "CD_MUN": 2202851,
+  "NM_MUN": "Coronel José Dias"
+ },
+ {
+  "CD_MUN": 2202901,
+  "NM_MUN": "Corrente"
+ },
+ {
+  "CD_MUN": 2203008,
+  "NM_MUN": "Cristalândia do Piauí"
+ },
+ {
+  "CD_MUN": 2203107,
+  "NM_MUN": "Cristino Castro"
+ },
+ {
+  "CD_MUN": 2203206,
+  "NM_MUN": "Curimatá"
+ },
+ {
+  "CD_MUN": 2203230,
+  "NM_MUN": "Currais"
+ },
+ {
+  "CD_MUN": 2203255,
+  "NM_MUN": "CURRALINHOS"
+ },
+ {
+  "CD_MUN": 2203271,
+  "NM_MUN": "Curral Novo do Piauí"
+ },
+ {
+  "CD_MUN": 2203305,
+  "NM_MUN": "Demerval Lobão"
+ },
+ {
+  "CD_MUN": 2203354,
+  "NM_MUN": "Dirceu Arcoverde"
+ },
+ {
+  "CD_MUN": 2203404,
+  "NM_MUN": "Dom Expedito Lopes"
+ },
+ {
+  "CD_MUN": 2203420,
+  "NM_MUN": "Domingos Mourão"
+ },
+ {
+  "CD_MUN": 2203453,
+  "NM_MUN": "Dom Inocêncio"
+ },
+ {
+  "CD_MUN": 2203503,
+  "NM_MUN": "Elesbão Veloso"
+ },
+ {
+  "CD_MUN": 2203602,
+  "NM_MUN": "Eliseu Martins"
+ },
+ {
+  "CD_MUN": 2203701,
+  "NM_MUN": "ESPERANTINA"
+ },
+ {
+  "CD_MUN": 2203750,
+  "NM_MUN": "Fartura do Piauí"
+ },
+ {
+  "CD_MUN": 2203800,
+  "NM_MUN": "Flores do Piauí"
+ },
+ {
+  "CD_MUN": 2203859,
+  "NM_MUN": "Floresta do Piauí"
+ },
+ {
+  "CD_MUN": 2203909,
+  "NM_MUN": "Floriano"
+ },
+ {
+  "CD_MUN": 2204006,
+  "NM_MUN": "Francinópolis"
+ },
+ {
+  "CD_MUN": 2204105,
+  "NM_MUN": "Francisco Ayres"
+ },
+ {
+  "CD_MUN": 2204154,
+  "NM_MUN": "Francisco Macedo"
+ },
+ {
+  "CD_MUN": 2204204,
+  "NM_MUN": "Francisco Santos"
+ },
+ {
+  "CD_MUN": 2204303,
+  "NM_MUN": "Fronteiras"
+ },
+ {
+  "CD_MUN": 2204352,
+  "NM_MUN": "Geminiano"
+ },
+ {
+  "CD_MUN": 2204402,
+  "NM_MUN": "GILBUÉS"
+ },
+ {
+  "CD_MUN": 2204550,
+  "NM_MUN": "Guaribas"
+ },
+ {
+  "CD_MUN": 2204600,
+  "NM_MUN": "HUGO NAPOLEÃO"
+ },
+ {
+  "CD_MUN": 2204659,
+  "NM_MUN": "Ilha Grande"
+ },
+ {
+  "CD_MUN": 2204709,
+  "NM_MUN": "Inhuma"
+ },
+ {
+  "CD_MUN": 2204808,
+  "NM_MUN": "Ipiranga do Piauí"
+ },
+ {
+  "CD_MUN": 2204907,
+  "NM_MUN": "Isaías Coelho"
+ },
+ {
+  "CD_MUN": 2205003,
+  "NM_MUN": "Itainópolis"
+ },
+ {
+  "CD_MUN": 2205102,
+  "NM_MUN": "Itaueira"
+ },
+ {
+  "CD_MUN": 2205151,
+  "NM_MUN": "Jacobina do Piauí"
+ },
+ {
+  "CD_MUN": 2205201,
+  "NM_MUN": "Jaicós"
+ },
+ {
+  "CD_MUN": 2205250,
+  "NM_MUN": "Jardim do Mulato"
+ },
+ {
+  "CD_MUN": 2205276,
+  "NM_MUN": "Jatobá do Piauí"
+ },
+ {
+  "CD_MUN": 2205300,
+  "NM_MUN": "JERUMENHA"
+ },
+ {
+  "CD_MUN": 2205359,
+  "NM_MUN": "João Costa"
+ },
+ {
+  "CD_MUN": 2205409,
+  "NM_MUN": "JOAQUIM PIRES"
+ },
+ {
+  "CD_MUN": 2205458,
+  "NM_MUN": "JOCA MARQUES"
+ },
+ {
+  "CD_MUN": 2205508,
+  "NM_MUN": "José de Freitas"
+ },
+ {
+  "CD_MUN": 2205516,
+  "NM_MUN": "Juazeiro do Piauí"
+ },
+ {
+  "CD_MUN": 2205524,
+  "NM_MUN": "Júlio Borges"
+ },
+ {
+  "CD_MUN": 2205532,
+  "NM_MUN": "Jurema"
+ },
+ {
+  "CD_MUN": 2205540,
+  "NM_MUN": "LAGOINHA DO PIAUÍ"
+ },
+ {
+  "CD_MUN": 2205557,
+  "NM_MUN": "LAGOA ALEGRE"
+ },
+ {
+  "CD_MUN": 2205565,
+  "NM_MUN": "Lagoa do Barro do Piauí"
+ },
+ {
+  "CD_MUN": 2205573,
+  "NM_MUN": "Lagoa de São Francisco"
+ },
+ {
+  "CD_MUN": 2205581,
+  "NM_MUN": "Lagoa do Piauí"
+ },
+ {
+  "CD_MUN": 2205599,
+  "NM_MUN": "Lagoa do Sítio"
+ },
+ {
+  "CD_MUN": 2205607,
+  "NM_MUN": "LANDRI SALES"
+ },
+ {
+  "CD_MUN": 2205706,
+  "NM_MUN": "Luís Correia"
+ },
+ {
+  "CD_MUN": 2205805,
+  "NM_MUN": "LUZILÂNDIA"
+ },
+ {
+  "CD_MUN": 2205854,
+  "NM_MUN": "MADEIRO"
+ },
+ {
+  "CD_MUN": 2205904,
+  "NM_MUN": "Manoel Emídio"
+ },
+ {
+  "CD_MUN": 2205953,
+  "NM_MUN": "Marcolândia"
+ },
+ {
+  "CD_MUN": 2206050,
+  "NM_MUN": "Massapê do Piauí"
+ },
+ {
+  "CD_MUN": 2206100,
+  "NM_MUN": "MATIAS OLÍMPIO"
+ },
+ {
+  "CD_MUN": 2206209,
+  "NM_MUN": "MIGUEL ALVES"
+ },
+ {
+  "CD_MUN": 2206308,
+  "NM_MUN": "MIGUEL LEÃO"
+ },
+ {
+  "CD_MUN": 2206357,
+  "NM_MUN": "Milton Brandão"
+ },
+ {
+  "CD_MUN": 2206407,
+  "NM_MUN": "Monsenhor Gil"
+ },
+ {
+  "CD_MUN": 2206506,
+  "NM_MUN": "Monsenhor Hipólito"
+ },
+ {
+  "CD_MUN": 2206605,
+  "NM_MUN": "MONTE ALEGRE DO PIAUÍ"
+ },
+ {
+  "CD_MUN": 2206654,
+  "NM_MUN": "Morro Cabeça no Tempo"
+ },
+ {
+  "CD_MUN": 2206670,
+  "NM_MUN": "MORRO DO CHAPÉU DO PIAUÍ"
+ },
+ {
+  "CD_MUN": 2206696,
+  "NM_MUN": "MURICI DOS PORTELAS"
+ },
+ {
+  "CD_MUN": 2206704,
+  "NM_MUN": "Nazaré do Piauí"
+ },
+ {
+  "CD_MUN": 2206720,
+  "NM_MUN": "NAZÁRIA"
+ },
+ {
+  "CD_MUN": 2206753,
+  "NM_MUN": "Nossa Senhora de Nazaré"
+ },
+ {
+  "CD_MUN": 2206803,
+  "NM_MUN": "NOSSA SENHORA DOS REMÉDIOS"
+ },
+ {
+  "CD_MUN": 2206902,
+  "NM_MUN": "Novo Oriente do Piauí"
+ },
+ {
+  "CD_MUN": 2206951,
+  "NM_MUN": "Novo Santo Antônio"
+ },
+ {
+  "CD_MUN": 2207009,
+  "NM_MUN": "Oeiras"
+ },
+ {
+  "CD_MUN": 2207108,
+  "NM_MUN": "OLHO D'ÁGUA DO PIAUÍ"
+ },
+ {
+  "CD_MUN": 2207207,
+  "NM_MUN": "Padre Marcos"
+ },
+ {
+  "CD_MUN": 2207306,
+  "NM_MUN": "Paes Landim"
+ },
+ {
+  "CD_MUN": 2207355,
+  "NM_MUN": "Pajeú do Piauí"
+ },
+ {
+  "CD_MUN": 2207405,
+  "NM_MUN": "Palmeira do Piauí"
+ },
+ {
+  "CD_MUN": 2207504,
+  "NM_MUN": "PALMEIRAIS"
+ },
+ {
+  "CD_MUN": 2207553,
+  "NM_MUN": "Paquetá"
+ },
+ {
+  "CD_MUN": 2207603,
+  "NM_MUN": "Parnaguá"
+ },
+ {
+  "CD_MUN": 2207702,
+  "NM_MUN": "Parnaíba"
+ },
+ {
+  "CD_MUN": 2207751,
+  "NM_MUN": "Passagem Franca do Piauí"
+ },
+ {
+  "CD_MUN": 2207777,
+  "NM_MUN": "Patos do Piauí"
+ },
+ {
+  "CD_MUN": 2207793,
+  "NM_MUN": "Pau D'Arco do Piauí"
+ },
+ {
+  "CD_MUN": 2207801,
+  "NM_MUN": "Paulistana"
+ },
+ {
+  "CD_MUN": 2207850,
+  "NM_MUN": "Pavussu"
+ },
+ {
+  "CD_MUN": 2207900,
+  "NM_MUN": "Pedro II"
+ },
+ {
+  "CD_MUN": 2207934,
+  "NM_MUN": "Pedro Laurentino"
+ },
+ {
+  "CD_MUN": 2207959,
+  "NM_MUN": "Nova Santa Rita"
+ },
+ {
+  "CD_MUN": 2208007,
+  "NM_MUN": "Picos"
+ },
+ {
+  "CD_MUN": 2208106,
+  "NM_MUN": "Pimenteiras"
+ },
+ {
+  "CD_MUN": 2208205,
+  "NM_MUN": "Pio IX"
+ },
+ {
+  "CD_MUN": 2208304,
+  "NM_MUN": "Piracuruca"
+ },
+ {
+  "CD_MUN": 2208403,
+  "NM_MUN": "Piripiri"
+ },
+ {
+  "CD_MUN": 2208502,
+  "NM_MUN": "PORTO"
+ },
+ {
+  "CD_MUN": 2208601,
+  "NM_MUN": "Prata do Piauí"
+ },
+ {
+  "CD_MUN": 2208650,
+  "NM_MUN": "Queimada Nova"
+ },
+ {
+  "CD_MUN": 2208700,
+  "NM_MUN": "Redenção do Gurguéia"
+ },
+ {
+  "CD_MUN": 2208809,
+  "NM_MUN": "Regeneração"
+ },
+ {
+  "CD_MUN": 2208858,
+  "NM_MUN": "Riacho Frio"
+ },
+ {
+  "CD_MUN": 2208874,
+  "NM_MUN": "Ribeira do Piauí"
+ },
+ {
+  "CD_MUN": 2209005,
+  "NM_MUN": "Rio Grande do Piauí"
+ },
+ {
+  "CD_MUN": 2209104,
+  "NM_MUN": "Santa Cruz do Piauí"
+ },
+ {
+  "CD_MUN": 2209153,
+  "NM_MUN": "Santa Cruz dos Milagres"
+ },
+ {
+  "CD_MUN": 2209302,
+  "NM_MUN": "Santa Luz"
+ },
+ {
+  "CD_MUN": 2209351,
+  "NM_MUN": "Santana do Piauí"
+ },
+ {
+  "CD_MUN": 2209377,
+  "NM_MUN": "Santa Rosa do Piauí"
+ },
+ {
+  "CD_MUN": 2209401,
+  "NM_MUN": "Santo Antônio de Lisboa"
+ },
+ {
+  "CD_MUN": 2209450,
+  "NM_MUN": "Santo Antônio dos Milagres"
+ },
+ {
+  "CD_MUN": 2209500,
+  "NM_MUN": "Santo Inácio do Piauí"
+ },
+ {
+  "CD_MUN": 2209559,
+  "NM_MUN": "São Braz do Piauí"
+ },
+ {
+  "CD_MUN": 2209609,
+  "NM_MUN": "São Félix do Piauí"
+ },
+ {
+  "CD_MUN": 2209658,
+  "NM_MUN": "São Francisco de Assis do Piauí"
+ },
+ {
+  "CD_MUN": 2209708,
+  "NM_MUN": "São Francisco do Piauí"
+ },
+ {
+  "CD_MUN": 2209757,
+  "NM_MUN": "São Gonçalo do Gurguéia"
+ },
+ {
+  "CD_MUN": 2209807,
+  "NM_MUN": "São Gonçalo do Piauí"
+ },
+ {
+  "CD_MUN": 2209856,
+  "NM_MUN": "São João da Canabrava"
+ },
+ {
+  "CD_MUN": 2209872,
+  "NM_MUN": "São João da Fronteira"
+ },
+ {
+  "CD_MUN": 2209906,
+  "NM_MUN": "São João da Serra"
+ },
+ {
+  "CD_MUN": 2209955,
+  "NM_MUN": "São João da Varjota"
+ },
+ {
+  "CD_MUN": 2209971,
+  "NM_MUN": "SÃO JOÃO DO ARRAIAL"
+ },
+ {
+  "CD_MUN": 2210003,
+  "NM_MUN": "São João do Piauí"
+ },
+ {
+  "CD_MUN": 2210052,
+  "NM_MUN": "São José do Divino"
+ },
+ {
+  "CD_MUN": 2210102,
+  "NM_MUN": "São José do Peixe"
+ },
+ {
+  "CD_MUN": 2210201,
+  "NM_MUN": "São José do Piauí"
+ },
+ {
+  "CD_MUN": 2210300,
+  "NM_MUN": "São Julião"
+ },
+ {
+  "CD_MUN": 2210359,
+  "NM_MUN": "São Lourenço do Piauí"
+ },
+ {
+  "CD_MUN": 2210375,
+  "NM_MUN": "São Luis do Piauí"
+ },
+ {
+  "CD_MUN": 2210383,
+  "NM_MUN": "São Miguel da Baixa Grande"
+ },
+ {
+  "CD_MUN": 2210391,
+  "NM_MUN": "São Miguel do Fidalgo"
+ },
+ {
+  "CD_MUN": 2210409,
+  "NM_MUN": "São Miguel do Tapuio"
+ },
+ {
+  "CD_MUN": 2210508,
+  "NM_MUN": "São Pedro do Piauí"
+ },
+ {
+  "CD_MUN": 2210607,
+  "NM_MUN": "São Raimundo Nonato"
+ },
+ {
+  "CD_MUN": 2210623,
+  "NM_MUN": "Sebastião Barros"
+ },
+ {
+  "CD_MUN": 2210631,
+  "NM_MUN": "Sebastião Leal"
+ },
+ {
+  "CD_MUN": 2210656,
+  "NM_MUN": "Sigefredo Pacheco"
+ },
+ {
+  "CD_MUN": 2210706,
+  "NM_MUN": "Simões"
+ },
+ {
+  "CD_MUN": 2210805,
+  "NM_MUN": "Simplício Mendes"
+ },
+ {
+  "CD_MUN": 2210904,
+  "NM_MUN": "Socorro do Piauí"
+ },
+ {
+  "CD_MUN": 2210938,
+  "NM_MUN": "Sussuapara"
+ },
+ {
+  "CD_MUN": 2210953,
+  "NM_MUN": "Tamboril do Piauí"
+ },
+ {
+  "CD_MUN": 2210979,
+  "NM_MUN": "Tanque do Piauí"
+ },
+ {
+  "CD_MUN": 2211001,
+  "NM_MUN": "Teresina"
+ },
+ {
+  "CD_MUN": 2211100,
+  "NM_MUN": "UNIÃO"
+ },
+ {
+  "CD_MUN": 2211209,
+  "NM_MUN": "URUÇUÍ"
+ },
+ {
+  "CD_MUN": 2211308,
+  "NM_MUN": "Valença do Piauí"
+ },
+ {
+  "CD_MUN": 2211357,
+  "NM_MUN": "Várzea Branca"
+ },
+ {
+  "CD_MUN": 2211407,
+  "NM_MUN": "Várzea Grande"
+ },
+ {
+  "CD_MUN": 2211506,
+  "NM_MUN": "Vera Mendes"
+ },
+ {
+  "CD_MUN": 2211605,
+  "NM_MUN": "Vila Nova do Piauí"
+ },
+ {
+  "CD_MUN": 2211704,
+  "NM_MUN": "Wall Ferraz"
+ },
+ {
+  "CD_MUN": 2300101,
+  "NM_MUN": "Abaiara"
+ },
+ {
+  "CD_MUN": 2300150,
+  "NM_MUN": "Acarape"
+ },
+ {
+  "CD_MUN": 2300200,
+  "NM_MUN": "Acaraú"
+ },
+ {
+  "CD_MUN": 2300309,
+  "NM_MUN": "Acopiara"
+ },
+ {
+  "CD_MUN": 2300408,
+  "NM_MUN": "Aiuaba"
+ },
+ {
+  "CD_MUN": 2300507,
+  "NM_MUN": "Alcântaras"
+ },
+ {
+  "CD_MUN": 2300606,
+  "NM_MUN": "Altaneira"
+ },
+ {
+  "CD_MUN": 2300705,
+  "NM_MUN": "Alto Santo"
+ },
+ {
+  "CD_MUN": 2300754,
+  "NM_MUN": "Amontada"
+ },
+ {
+  "CD_MUN": 2300804,
+  "NM_MUN": "Antonina do Norte"
+ },
+ {
+  "CD_MUN": 2300903,
+  "NM_MUN": "Apuiarés"
+ },
+ {
+  "CD_MUN": 2301109,
+  "NM_MUN": "Aracati"
+ },
+ {
+  "CD_MUN": 2301208,
+  "NM_MUN": "Aracoiaba"
+ },
+ {
+  "CD_MUN": 2301257,
+  "NM_MUN": "Ararendá"
+ },
+ {
+  "CD_MUN": 2301307,
+  "NM_MUN": "Araripe"
+ },
+ {
+  "CD_MUN": 2301406,
+  "NM_MUN": "Aratuba"
+ },
+ {
+  "CD_MUN": 2301505,
+  "NM_MUN": "Arneiroz"
+ },
+ {
+  "CD_MUN": 2301604,
+  "NM_MUN": "Assaré"
+ },
+ {
+  "CD_MUN": 2301703,
+  "NM_MUN": "Aurora"
+ },
+ {
+  "CD_MUN": 2301802,
+  "NM_MUN": "Baixio"
+ },
+ {
+  "CD_MUN": 2301851,
+  "NM_MUN": "Banabuiú"
+ },
+ {
+  "CD_MUN": 2301901,
+  "NM_MUN": "Barbalha"
+ },
+ {
+  "CD_MUN": 2301950,
+  "NM_MUN": "Barreira"
+ },
+ {
+  "CD_MUN": 2302008,
+  "NM_MUN": "Barro"
+ },
+ {
+  "CD_MUN": 2302057,
+  "NM_MUN": "Barroquinha"
+ },
+ {
+  "CD_MUN": 2302107,
+  "NM_MUN": "Baturité"
+ },
+ {
+  "CD_MUN": 2302206,
+  "NM_MUN": "Beberibe"
+ },
+ {
+  "CD_MUN": 2302305,
+  "NM_MUN": "Bela Cruz"
+ },
+ {
+  "CD_MUN": 2302404,
+  "NM_MUN": "Boa Viagem"
+ },
+ {
+  "CD_MUN": 2302503,
+  "NM_MUN": "Brejo Santo"
+ },
+ {
+  "CD_MUN": 2302602,
+  "NM_MUN": "Camocim"
+ },
+ {
+  "CD_MUN": 2302701,
+  "NM_MUN": "Campos Sales"
+ },
+ {
+  "CD_MUN": 2302800,
+  "NM_MUN": "Canindé"
+ },
+ {
+  "CD_MUN": 2302909,
+  "NM_MUN": "Capistrano"
+ },
+ {
+  "CD_MUN": 2303006,
+  "NM_MUN": "Caridade"
+ },
+ {
+  "CD_MUN": 2303105,
+  "NM_MUN": "Cariré"
+ },
+ {
+  "CD_MUN": 2303204,
+  "NM_MUN": "Caririaçu"
+ },
+ {
+  "CD_MUN": 2303303,
+  "NM_MUN": "Cariús"
+ },
+ {
+  "CD_MUN": 2303402,
+  "NM_MUN": "Carnaubal"
+ },
+ {
+  "CD_MUN": 2303501,
+  "NM_MUN": "Cascavel"
+ },
+ {
+  "CD_MUN": 2303600,
+  "NM_MUN": "Catarina"
+ },
+ {
+  "CD_MUN": 2303659,
+  "NM_MUN": "Catunda"
+ },
+ {
+  "CD_MUN": 2303709,
+  "NM_MUN": "Caucaia"
+ },
+ {
+  "CD_MUN": 2303808,
+  "NM_MUN": "Cedro"
+ },
+ {
+  "CD_MUN": 2303907,
+  "NM_MUN": "Chaval"
+ },
+ {
+  "CD_MUN": 2303931,
+  "NM_MUN": "Choró"
+ },
+ {
+  "CD_MUN": 2303956,
+  "NM_MUN": "Chorozinho"
+ },
+ {
+  "CD_MUN": 2304004,
+  "NM_MUN": "Coreaú"
+ },
+ {
+  "CD_MUN": 2304103,
+  "NM_MUN": "Crateús"
+ },
+ {
+  "CD_MUN": 2304202,
+  "NM_MUN": "Crato"
+ },
+ {
+  "CD_MUN": 2304236,
+  "NM_MUN": "Croatá"
+ },
+ {
+  "CD_MUN": 2304251,
+  "NM_MUN": "Cruz"
+ },
+ {
+  "CD_MUN": 2304269,
+  "NM_MUN": "Deputado Irapuan Pinheiro"
+ },
+ {
+  "CD_MUN": 2304277,
+  "NM_MUN": "Ereré"
+ },
+ {
+  "CD_MUN": 2304301,
+  "NM_MUN": "Farias Brito"
+ },
+ {
+  "CD_MUN": 2304350,
+  "NM_MUN": "Forquilha"
+ },
+ {
+  "CD_MUN": 2304459,
+  "NM_MUN": "Fortim"
+ },
+ {
+  "CD_MUN": 2304509,
+  "NM_MUN": "Frecheirinha"
+ },
+ {
+  "CD_MUN": 2304608,
+  "NM_MUN": "General Sampaio"
+ },
+ {
+  "CD_MUN": 2304657,
+  "NM_MUN": "Graça"
+ },
+ {
+  "CD_MUN": 2304707,
+  "NM_MUN": "Granja"
+ },
+ {
+  "CD_MUN": 2304806,
+  "NM_MUN": "Granjeiro"
+ },
+ {
+  "CD_MUN": 2304905,
+  "NM_MUN": "Groaíras"
+ },
+ {
+  "CD_MUN": 2304954,
+  "NM_MUN": "Guaiúba"
+ },
+ {
+  "CD_MUN": 2305001,
+  "NM_MUN": "Guaraciaba do Norte"
+ },
+ {
+  "CD_MUN": 2305100,
+  "NM_MUN": "Guaramiranga"
+ },
+ {
+  "CD_MUN": 2305209,
+  "NM_MUN": "Hidrolândia"
+ },
+ {
+  "CD_MUN": 2305233,
+  "NM_MUN": "Horizonte"
+ },
+ {
+  "CD_MUN": 2305266,
+  "NM_MUN": "Ibaretama"
+ },
+ {
+  "CD_MUN": 2305308,
+  "NM_MUN": "Ibiapina"
+ },
+ {
+  "CD_MUN": 2305332,
+  "NM_MUN": "Ibicuitinga"
+ },
+ {
+  "CD_MUN": 2305357,
+  "NM_MUN": "Icapuí"
+ },
+ {
+  "CD_MUN": 2305407,
+  "NM_MUN": "Icó"
+ },
+ {
+  "CD_MUN": 2305506,
+  "NM_MUN": "Iguatu"
+ },
+ {
+  "CD_MUN": 2305605,
+  "NM_MUN": "Independência"
+ },
+ {
+  "CD_MUN": 2305654,
+  "NM_MUN": "Ipaporanga"
+ },
+ {
+  "CD_MUN": 2305704,
+  "NM_MUN": "Ipaumirim"
+ },
+ {
+  "CD_MUN": 2305803,
+  "NM_MUN": "Ipu"
+ },
+ {
+  "CD_MUN": 2305902,
+  "NM_MUN": "Ipueiras"
+ },
+ {
+  "CD_MUN": 2306009,
+  "NM_MUN": "Iracema"
+ },
+ {
+  "CD_MUN": 2306108,
+  "NM_MUN": "Irauçuba"
+ },
+ {
+  "CD_MUN": 2306207,
+  "NM_MUN": "Itaiçaba"
+ },
+ {
+  "CD_MUN": 2306306,
+  "NM_MUN": "Itapajé"
+ },
+ {
+  "CD_MUN": 2306405,
+  "NM_MUN": "Itapipoca"
+ },
+ {
+  "CD_MUN": 2306504,
+  "NM_MUN": "Itapiúna"
+ },
+ {
+  "CD_MUN": 2306553,
+  "NM_MUN": "Itarema"
+ },
+ {
+  "CD_MUN": 2306603,
+  "NM_MUN": "Itatira"
+ },
+ {
+  "CD_MUN": 2306702,
+  "NM_MUN": "Jaguaretama"
+ },
+ {
+  "CD_MUN": 2306801,
+  "NM_MUN": "Jaguaribara"
+ },
+ {
+  "CD_MUN": 2306900,
+  "NM_MUN": "Jaguaribe"
+ },
+ {
+  "CD_MUN": 2307007,
+  "NM_MUN": "Jaguaruana"
+ },
+ {
+  "CD_MUN": 2307106,
+  "NM_MUN": "Jardim"
+ },
+ {
+  "CD_MUN": 2307205,
+  "NM_MUN": "Jati"
+ },
+ {
+  "CD_MUN": 2307254,
+  "NM_MUN": "Jijoca de Jericoacoara"
+ },
+ {
+  "CD_MUN": 2307304,
+  "NM_MUN": "Juazeiro do Norte"
+ },
+ {
+  "CD_MUN": 2307403,
+  "NM_MUN": "Jucás"
+ },
+ {
+  "CD_MUN": 2307502,
+  "NM_MUN": "Lavras da Mangabeira"
+ },
+ {
+  "CD_MUN": 2307601,
+  "NM_MUN": "Limoeiro do Norte"
+ },
+ {
+  "CD_MUN": 2307635,
+  "NM_MUN": "Madalena"
+ },
+ {
+  "CD_MUN": 2307700,
+  "NM_MUN": "Maranguape"
+ },
+ {
+  "CD_MUN": 2307809,
+  "NM_MUN": "Marco"
+ },
+ {
+  "CD_MUN": 2307908,
+  "NM_MUN": "Martinópole"
+ },
+ {
+  "CD_MUN": 2308005,
+  "NM_MUN": "Massapê"
+ },
+ {
+  "CD_MUN": 2308104,
+  "NM_MUN": "Mauriti"
+ },
+ {
+  "CD_MUN": 2308203,
+  "NM_MUN": "Meruoca"
+ },
+ {
+  "CD_MUN": 2308302,
+  "NM_MUN": "Milagres"
+ },
+ {
+  "CD_MUN": 2308351,
+  "NM_MUN": "Milhã"
+ },
+ {
+  "CD_MUN": 2308377,
+  "NM_MUN": "Miraíma"
+ },
+ {
+  "CD_MUN": 2308401,
+  "NM_MUN": "Missão Velha"
+ },
+ {
+  "CD_MUN": 2308500,
+  "NM_MUN": "Mombaça"
+ },
+ {
+  "CD_MUN": 2308609,
+  "NM_MUN": "Monsenhor Tabosa"
+ },
+ {
+  "CD_MUN": 2308708,
+  "NM_MUN": "Morada Nova"
+ },
+ {
+  "CD_MUN": 2308807,
+  "NM_MUN": "Moraújo"
+ },
+ {
+  "CD_MUN": 2308906,
+  "NM_MUN": "Morrinhos"
+ },
+ {
+  "CD_MUN": 2309003,
+  "NM_MUN": "Mucambo"
+ },
+ {
+  "CD_MUN": 2309102,
+  "NM_MUN": "Mulungu"
+ },
+ {
+  "CD_MUN": 2309201,
+  "NM_MUN": "Nova Olinda"
+ },
+ {
+  "CD_MUN": 2309300,
+  "NM_MUN": "Nova Russas"
+ },
+ {
+  "CD_MUN": 2309409,
+  "NM_MUN": "Novo Oriente"
+ },
+ {
+  "CD_MUN": 2309458,
+  "NM_MUN": "Ocara"
+ },
+ {
+  "CD_MUN": 2309508,
+  "NM_MUN": "Orós"
+ },
+ {
+  "CD_MUN": 2309607,
+  "NM_MUN": "Pacajus"
+ },
+ {
+  "CD_MUN": 2309805,
+  "NM_MUN": "Pacoti"
+ },
+ {
+  "CD_MUN": 2309904,
+  "NM_MUN": "Pacujá"
+ },
+ {
+  "CD_MUN": 2310001,
+  "NM_MUN": "Palhano"
+ },
+ {
+  "CD_MUN": 2310100,
+  "NM_MUN": "Palmácia"
+ },
+ {
+  "CD_MUN": 2310308,
+  "NM_MUN": "Parambu"
+ },
+ {
+  "CD_MUN": 2310407,
+  "NM_MUN": "Paramoti"
+ },
+ {
+  "CD_MUN": 2310506,
+  "NM_MUN": "Pedra Branca"
+ },
+ {
+  "CD_MUN": 2310605,
+  "NM_MUN": "Penaforte"
+ },
+ {
+  "CD_MUN": 2310704,
+  "NM_MUN": "Pentecoste"
+ },
+ {
+  "CD_MUN": 2310803,
+  "NM_MUN": "Pereiro"
+ },
+ {
+  "CD_MUN": 2310902,
+  "NM_MUN": "Piquet Carneiro"
+ },
+ {
+  "CD_MUN": 2310951,
+  "NM_MUN": "Pires Ferreira"
+ },
+ {
+  "CD_MUN": 2311009,
+  "NM_MUN": "Poranga"
+ },
+ {
+  "CD_MUN": 2311108,
+  "NM_MUN": "Porteiras"
+ },
+ {
+  "CD_MUN": 2311207,
+  "NM_MUN": "Potengi"
+ },
+ {
+  "CD_MUN": 2311231,
+  "NM_MUN": "Potiretama"
+ },
+ {
+  "CD_MUN": 2311264,
+  "NM_MUN": "Quiterianópolis"
+ },
+ {
+  "CD_MUN": 2311306,
+  "NM_MUN": "Quixadá"
+ },
+ {
+  "CD_MUN": 2311355,
+  "NM_MUN": "Quixelô"
+ },
+ {
+  "CD_MUN": 2311405,
+  "NM_MUN": "Quixeramobim"
+ },
+ {
+  "CD_MUN": 2311504,
+  "NM_MUN": "Quixeré"
+ },
+ {
+  "CD_MUN": 2311603,
+  "NM_MUN": "Redenção"
+ },
+ {
+  "CD_MUN": 2311702,
+  "NM_MUN": "Reriutaba"
+ },
+ {
+  "CD_MUN": 2311801,
+  "NM_MUN": "Russas"
+ },
+ {
+  "CD_MUN": 2311900,
+  "NM_MUN": "Saboeiro"
+ },
+ {
+  "CD_MUN": 2311959,
+  "NM_MUN": "Salitre"
+ },
+ {
+  "CD_MUN": 2312007,
+  "NM_MUN": "Santana do Acaraú"
+ },
+ {
+  "CD_MUN": 2312106,
+  "NM_MUN": "Santana do Cariri"
+ },
+ {
+  "CD_MUN": 2312205,
+  "NM_MUN": "Santa Quitéria"
+ },
+ {
+  "CD_MUN": 2312304,
+  "NM_MUN": "São Benedito"
+ },
+ {
+  "CD_MUN": 2312403,
+  "NM_MUN": "São Gonçalo do Amarante"
+ },
+ {
+  "CD_MUN": 2312502,
+  "NM_MUN": "São João do Jaguaribe"
+ },
+ {
+  "CD_MUN": 2312601,
+  "NM_MUN": "São Luís do Curu"
+ },
+ {
+  "CD_MUN": 2312700,
+  "NM_MUN": "Senador Pompeu"
+ },
+ {
+  "CD_MUN": 2312809,
+  "NM_MUN": "Senador Sá"
+ },
+ {
+  "CD_MUN": 2312908,
+  "NM_MUN": "Sobral"
+ },
+ {
+  "CD_MUN": 2313005,
+  "NM_MUN": "Solonópole"
+ },
+ {
+  "CD_MUN": 2313104,
+  "NM_MUN": "Tabuleiro do Norte"
+ },
+ {
+  "CD_MUN": 2313203,
+  "NM_MUN": "Tamboril"
+ },
+ {
+  "CD_MUN": 2313252,
+  "NM_MUN": "Tarrafas"
+ },
+ {
+  "CD_MUN": 2313302,
+  "NM_MUN": "Tauá"
+ },
+ {
+  "CD_MUN": 2313351,
+  "NM_MUN": "Tejuçuoca"
+ },
+ {
+  "CD_MUN": 2313401,
+  "NM_MUN": "Tianguá"
+ },
+ {
+  "CD_MUN": 2313500,
+  "NM_MUN": "Trairi"
+ },
+ {
+  "CD_MUN": 2313559,
+  "NM_MUN": "Tururu"
+ },
+ {
+  "CD_MUN": 2313609,
+  "NM_MUN": "Ubajara"
+ },
+ {
+  "CD_MUN": 2313708,
+  "NM_MUN": "Umari"
+ },
+ {
+  "CD_MUN": 2313757,
+  "NM_MUN": "Umirim"
+ },
+ {
+  "CD_MUN": 2313807,
+  "NM_MUN": "Uruburetama"
+ },
+ {
+  "CD_MUN": 2313906,
+  "NM_MUN": "Uruoca"
+ },
+ {
+  "CD_MUN": 2313955,
+  "NM_MUN": "Varjota"
+ },
+ {
+  "CD_MUN": 2314003,
+  "NM_MUN": "Várzea Alegre"
+ },
+ {
+  "CD_MUN": 2314102,
+  "NM_MUN": "Viçosa do Ceará"
+ },
+ {
+  "CD_MUN": 2400109,
+  "NM_MUN": "Acari"
+ },
+ {
+  "CD_MUN": 2400208,
+  "NM_MUN": "Açu"
+ },
+ {
+  "CD_MUN": 2400307,
+  "NM_MUN": "Afonso Bezerra"
+ },
+ {
+  "CD_MUN": 2400406,
+  "NM_MUN": "Água Nova"
+ },
+ {
+  "CD_MUN": 2400505,
+  "NM_MUN": "Alexandria"
+ },
+ {
+  "CD_MUN": 2400604,
+  "NM_MUN": "Almino Afonso"
+ },
+ {
+  "CD_MUN": 2400703,
+  "NM_MUN": "Alto do Rodrigues"
+ },
+ {
+  "CD_MUN": 2400802,
+  "NM_MUN": "Angicos"
+ },
+ {
+  "CD_MUN": 2400901,
+  "NM_MUN": "Antônio Martins"
+ },
+ {
+  "CD_MUN": 2401008,
+  "NM_MUN": "Apodi"
+ },
+ {
+  "CD_MUN": 2401107,
+  "NM_MUN": "Areia Branca"
+ },
+ {
+  "CD_MUN": 2401305,
+  "NM_MUN": "Campo Grande"
+ },
+ {
+  "CD_MUN": 2401453,
+  "NM_MUN": "Baraúna"
+ },
+ {
+  "CD_MUN": 2401503,
+  "NM_MUN": "Barcelona"
+ },
+ {
+  "CD_MUN": 2401602,
+  "NM_MUN": "Bento Fernandes"
+ },
+ {
+  "CD_MUN": 2401651,
+  "NM_MUN": "Bodó"
+ },
+ {
+  "CD_MUN": 2401701,
+  "NM_MUN": "Bom Jesus"
+ },
+ {
+  "CD_MUN": 2401800,
+  "NM_MUN": "Brejinho"
+ },
+ {
+  "CD_MUN": 2401859,
+  "NM_MUN": "Caiçara do Norte"
+ },
+ {
+  "CD_MUN": 2401909,
+  "NM_MUN": "Caiçara do Rio do Vento"
+ },
+ {
+  "CD_MUN": 2402006,
+  "NM_MUN": "Caicó"
+ },
+ {
+  "CD_MUN": 2402105,
+  "NM_MUN": "Campo Redondo"
+ },
+ {
+  "CD_MUN": 2402303,
+  "NM_MUN": "Caraúbas"
+ },
+ {
+  "CD_MUN": 2402402,
+  "NM_MUN": "Carnaúba dos Dantas"
+ },
+ {
+  "CD_MUN": 2402501,
+  "NM_MUN": "Carnaubais"
+ },
+ {
+  "CD_MUN": 2402600,
+  "NM_MUN": "CEARÁ-MIRIM"
+ },
+ {
+  "CD_MUN": 2402709,
+  "NM_MUN": "Cerro Corá"
+ },
+ {
+  "CD_MUN": 2402808,
+  "NM_MUN": "Coronel Ezequiel"
+ },
+ {
+  "CD_MUN": 2402907,
+  "NM_MUN": "Coronel João Pessoa"
+ },
+ {
+  "CD_MUN": 2403004,
+  "NM_MUN": "Cruzeta"
+ },
+ {
+  "CD_MUN": 2403103,
+  "NM_MUN": "Currais Novos"
+ },
+ {
+  "CD_MUN": 2403202,
+  "NM_MUN": "Doutor Severiano"
+ },
+ {
+  "CD_MUN": 2403301,
+  "NM_MUN": "Encanto"
+ },
+ {
+  "CD_MUN": 2403400,
+  "NM_MUN": "Equador"
+ },
+ {
+  "CD_MUN": 2403707,
+  "NM_MUN": "Felipe Guerra"
+ },
+ {
+  "CD_MUN": 2403756,
+  "NM_MUN": "Fernando Pedroza"
+ },
+ {
+  "CD_MUN": 2403806,
+  "NM_MUN": "Florânia"
+ },
+ {
+  "CD_MUN": 2403905,
+  "NM_MUN": "Francisco Dantas"
+ },
+ {
+  "CD_MUN": 2404002,
+  "NM_MUN": "Frutuoso Gomes"
+ },
+ {
+  "CD_MUN": 2404101,
+  "NM_MUN": "Galinhos"
+ },
+ {
+  "CD_MUN": 2404309,
+  "NM_MUN": "Governador Dix-Sept Rosado"
+ },
+ {
+  "CD_MUN": 2404408,
+  "NM_MUN": "Grossos"
+ },
+ {
+  "CD_MUN": 2404507,
+  "NM_MUN": "Guamaré"
+ },
+ {
+  "CD_MUN": 2404606,
+  "NM_MUN": "Ielmo Marinho"
+ },
+ {
+  "CD_MUN": 2404705,
+  "NM_MUN": "Ipanguaçu"
+ },
+ {
+  "CD_MUN": 2404804,
+  "NM_MUN": "Ipueira"
+ },
+ {
+  "CD_MUN": 2404853,
+  "NM_MUN": "Itajá"
+ },
+ {
+  "CD_MUN": 2404903,
+  "NM_MUN": "Itaú"
+ },
+ {
+  "CD_MUN": 2405009,
+  "NM_MUN": "Jaçanã"
+ },
+ {
+  "CD_MUN": 2405108,
+  "NM_MUN": "Jandaíra"
+ },
+ {
+  "CD_MUN": 2405207,
+  "NM_MUN": "Janduís"
+ },
+ {
+  "CD_MUN": 2405306,
+  "NM_MUN": "Januário Cicco"
+ },
+ {
+  "CD_MUN": 2405405,
+  "NM_MUN": "Japi"
+ },
+ {
+  "CD_MUN": 2405504,
+  "NM_MUN": "Jardim de Angicos"
+ },
+ {
+  "CD_MUN": 2405603,
+  "NM_MUN": "Jardim de Piranhas"
+ },
+ {
+  "CD_MUN": 2405702,
+  "NM_MUN": "Jardim do Seridó"
+ },
+ {
+  "CD_MUN": 2405801,
+  "NM_MUN": "João Câmara"
+ },
+ {
+  "CD_MUN": 2405900,
+  "NM_MUN": "João Dias"
+ },
+ {
+  "CD_MUN": 2406007,
+  "NM_MUN": "José da Penha"
+ },
+ {
+  "CD_MUN": 2406106,
+  "NM_MUN": "Jucurutu"
+ },
+ {
+  "CD_MUN": 2406205,
+  "NM_MUN": "Lagoa d'Anta"
+ },
+ {
+  "CD_MUN": 2406304,
+  "NM_MUN": "Lagoa de Pedras"
+ },
+ {
+  "CD_MUN": 2406403,
+  "NM_MUN": "Lagoa de Velhos"
+ },
+ {
+  "CD_MUN": 2406502,
+  "NM_MUN": "Lagoa Nova"
+ },
+ {
+  "CD_MUN": 2406601,
+  "NM_MUN": "Lagoa Salgada"
+ },
+ {
+  "CD_MUN": 2406700,
+  "NM_MUN": "Lajes"
+ },
+ {
+  "CD_MUN": 2406809,
+  "NM_MUN": "Lajes Pintadas"
+ },
+ {
+  "CD_MUN": 2406908,
+  "NM_MUN": "Lucrécia"
+ },
+ {
+  "CD_MUN": 2407005,
+  "NM_MUN": "Luís Gomes"
+ },
+ {
+  "CD_MUN": 2407104,
+  "NM_MUN": "Macaíba"
+ },
+ {
+  "CD_MUN": 2407203,
+  "NM_MUN": "Macau"
+ },
+ {
+  "CD_MUN": 2407252,
+  "NM_MUN": "Major Sales"
+ },
+ {
+  "CD_MUN": 2407302,
+  "NM_MUN": "Marcelino Vieira"
+ },
+ {
+  "CD_MUN": 2407401,
+  "NM_MUN": "Martins"
+ },
+ {
+  "CD_MUN": 2407609,
+  "NM_MUN": "Messias Targino"
+ },
+ {
+  "CD_MUN": 2407807,
+  "NM_MUN": "Monte Alegre"
+ },
+ {
+  "CD_MUN": 2407906,
+  "NM_MUN": "Monte das Gameleiras"
+ },
+ {
+  "CD_MUN": 2408003,
+  "NM_MUN": "Mossoró"
+ },
+ {
+  "CD_MUN": 2408300,
+  "NM_MUN": "Nova Cruz"
+ },
+ {
+  "CD_MUN": 2408409,
+  "NM_MUN": "Olho d'Água do Borges"
+ },
+ {
+  "CD_MUN": 2408508,
+  "NM_MUN": "Ouro Branco"
+ },
+ {
+  "CD_MUN": 2408607,
+  "NM_MUN": "Paraná"
+ },
+ {
+  "CD_MUN": 2408706,
+  "NM_MUN": "Paraú"
+ },
+ {
+  "CD_MUN": 2408805,
+  "NM_MUN": "Parazinho"
+ },
+ {
+  "CD_MUN": 2408904,
+  "NM_MUN": "Parelhas"
+ },
+ {
+  "CD_MUN": 2409100,
+  "NM_MUN": "Passa e Fica"
+ },
+ {
+  "CD_MUN": 2409209,
+  "NM_MUN": "Passagem"
+ },
+ {
+  "CD_MUN": 2409308,
+  "NM_MUN": "Patu"
+ },
+ {
+  "CD_MUN": 2409332,
+  "NM_MUN": "Santa Maria"
+ },
+ {
+  "CD_MUN": 2409407,
+  "NM_MUN": "Pau dos Ferros"
+ },
+ {
+  "CD_MUN": 2409506,
+  "NM_MUN": "Pedra Grande"
+ },
+ {
+  "CD_MUN": 2409605,
+  "NM_MUN": "Pedra Preta"
+ },
+ {
+  "CD_MUN": 2409704,
+  "NM_MUN": "Pedro Avelino"
+ },
+ {
+  "CD_MUN": 2409902,
+  "NM_MUN": "Pendências"
+ },
+ {
+  "CD_MUN": 2410009,
+  "NM_MUN": "Pilões"
+ },
+ {
+  "CD_MUN": 2410108,
+  "NM_MUN": "Poço Branco"
+ },
+ {
+  "CD_MUN": 2410207,
+  "NM_MUN": "Portalegre"
+ },
+ {
+  "CD_MUN": 2410256,
+  "NM_MUN": "Porto do Mangue"
+ },
+ {
+  "CD_MUN": 2410306,
+  "NM_MUN": "Serra Caiada"
+ },
+ {
+  "CD_MUN": 2410405,
+  "NM_MUN": "Pureza"
+ },
+ {
+  "CD_MUN": 2410504,
+  "NM_MUN": "Rafael Fernandes"
+ },
+ {
+  "CD_MUN": 2410603,
+  "NM_MUN": "Rafael Godeiro"
+ },
+ {
+  "CD_MUN": 2410702,
+  "NM_MUN": "Riacho da Cruz"
+ },
+ {
+  "CD_MUN": 2410801,
+  "NM_MUN": "Riacho de Santana"
+ },
+ {
+  "CD_MUN": 2410900,
+  "NM_MUN": "Riachuelo"
+ },
+ {
+  "CD_MUN": 2411007,
+  "NM_MUN": "Rodolfo Fernandes"
+ },
+ {
+  "CD_MUN": 2411056,
+  "NM_MUN": "Tibau"
+ },
+ {
+  "CD_MUN": 2411106,
+  "NM_MUN": "Ruy Barbosa"
+ },
+ {
+  "CD_MUN": 2411205,
+  "NM_MUN": "Santa Cruz"
+ },
+ {
+  "CD_MUN": 2411403,
+  "NM_MUN": "Santana do Matos"
+ },
+ {
+  "CD_MUN": 2411429,
+  "NM_MUN": "Santana do Seridó"
+ },
+ {
+  "CD_MUN": 2411502,
+  "NM_MUN": "Santo Antônio"
+ },
+ {
+  "CD_MUN": 2411601,
+  "NM_MUN": "São Bento do Norte"
+ },
+ {
+  "CD_MUN": 2411700,
+  "NM_MUN": "São Bento do Trairí"
+ },
+ {
+  "CD_MUN": 2411809,
+  "NM_MUN": "São Fernando"
+ },
+ {
+  "CD_MUN": 2411908,
+  "NM_MUN": "São Francisco do Oeste"
+ },
+ {
+  "CD_MUN": 2412104,
+  "NM_MUN": "São João do Sabugi"
+ },
+ {
+  "CD_MUN": 2412302,
+  "NM_MUN": "São José do Campestre"
+ },
+ {
+  "CD_MUN": 2412401,
+  "NM_MUN": "São José do Seridó"
+ },
+ {
+  "CD_MUN": 2412500,
+  "NM_MUN": "São Miguel"
+ },
+ {
+  "CD_MUN": 2412559,
+  "NM_MUN": "São Miguel do Gostoso"
+ },
+ {
+  "CD_MUN": 2412609,
+  "NM_MUN": "São Paulo do Potengi"
+ },
+ {
+  "CD_MUN": 2412708,
+  "NM_MUN": "São Pedro"
+ },
+ {
+  "CD_MUN": 2412807,
+  "NM_MUN": "São Rafael"
+ },
+ {
+  "CD_MUN": 2412906,
+  "NM_MUN": "São Tomé"
+ },
+ {
+  "CD_MUN": 2413003,
+  "NM_MUN": "São Vicente"
+ },
+ {
+  "CD_MUN": 2413102,
+  "NM_MUN": "Senador Elói de Souza"
+ },
+ {
+  "CD_MUN": 2413300,
+  "NM_MUN": "Serra de São Bento"
+ },
+ {
+  "CD_MUN": 2413359,
+  "NM_MUN": "Serra do Mel"
+ },
+ {
+  "CD_MUN": 2413409,
+  "NM_MUN": "Serra Negra do Norte"
+ },
+ {
+  "CD_MUN": 2413508,
+  "NM_MUN": "Serrinha"
+ },
+ {
+  "CD_MUN": 2413557,
+  "NM_MUN": "Serrinha dos Pintos"
+ },
+ {
+  "CD_MUN": 2413607,
+  "NM_MUN": "Severiano Melo"
+ },
+ {
+  "CD_MUN": 2413706,
+  "NM_MUN": "Sítio Novo"
+ },
+ {
+  "CD_MUN": 2413805,
+  "NM_MUN": "Taboleiro Grande"
+ },
+ {
+  "CD_MUN": 2413904,
+  "NM_MUN": "Taipu"
+ },
+ {
+  "CD_MUN": 2414001,
+  "NM_MUN": "Tangará"
+ },
+ {
+  "CD_MUN": 2414100,
+  "NM_MUN": "Tenente Ananias"
+ },
+ {
+  "CD_MUN": 2414159,
+  "NM_MUN": "Tenente Laurentino Cruz"
+ },
+ {
+  "CD_MUN": 2414308,
+  "NM_MUN": "Timbaúba dos Batistas"
+ },
+ {
+  "CD_MUN": 2414407,
+  "NM_MUN": "Touros"
+ },
+ {
+  "CD_MUN": 2414456,
+  "NM_MUN": "Triunfo Potiguar"
+ },
+ {
+  "CD_MUN": 2414506,
+  "NM_MUN": "Umarizal"
+ },
+ {
+  "CD_MUN": 2414605,
+  "NM_MUN": "Upanema"
+ },
+ {
+  "CD_MUN": 2414704,
+  "NM_MUN": "Várzea"
+ },
+ {
+  "CD_MUN": 2414753,
+  "NM_MUN": "Venha-Ver"
+ },
+ {
+  "CD_MUN": 2414803,
+  "NM_MUN": "Vera Cruz"
+ },
+ {
+  "CD_MUN": 2414902,
+  "NM_MUN": "Viçosa"
+ },
+ {
+  "CD_MUN": 2500106,
+  "NM_MUN": "Água Branca"
+ },
+ {
+  "CD_MUN": 2500205,
+  "NM_MUN": "Aguiar"
+ },
+ {
+  "CD_MUN": 2500304,
+  "NM_MUN": "Alagoa Grande"
+ },
+ {
+  "CD_MUN": 2500403,
+  "NM_MUN": "Alagoa Nova"
+ },
+ {
+  "CD_MUN": 2500502,
+  "NM_MUN": "Alagoinha"
+ },
+ {
+  "CD_MUN": 2500536,
+  "NM_MUN": "Alcantil"
+ },
+ {
+  "CD_MUN": 2500577,
+  "NM_MUN": "Algodão de Jandaíra"
+ },
+ {
+  "CD_MUN": 2500700,
+  "NM_MUN": "São João do Rio do Peixe"
+ },
+ {
+  "CD_MUN": 2500734,
+  "NM_MUN": "Amparo"
+ },
+ {
+  "CD_MUN": 2500775,
+  "NM_MUN": "Aparecida"
+ },
+ {
+  "CD_MUN": 2500809,
+  "NM_MUN": "Araçagi"
+ },
+ {
+  "CD_MUN": 2500908,
+  "NM_MUN": "Arara"
+ },
+ {
+  "CD_MUN": 2501005,
+  "NM_MUN": "Araruna"
+ },
+ {
+  "CD_MUN": 2501104,
+  "NM_MUN": "Areia"
+ },
+ {
+  "CD_MUN": 2501153,
+  "NM_MUN": "Areia de Baraúnas"
+ },
+ {
+  "CD_MUN": 2501203,
+  "NM_MUN": "Areial"
+ },
+ {
+  "CD_MUN": 2501302,
+  "NM_MUN": "Aroeiras"
+ },
+ {
+  "CD_MUN": 2501351,
+  "NM_MUN": "Assunção"
+ },
+ {
+  "CD_MUN": 2501500,
+  "NM_MUN": "Bananeiras"
+ },
+ {
+  "CD_MUN": 2501534,
+  "NM_MUN": "Baraúna"
+ },
+ {
+  "CD_MUN": 2501575,
+  "NM_MUN": "Barra de Santana"
+ },
+ {
+  "CD_MUN": 2501609,
+  "NM_MUN": "Barra de Santa Rosa"
+ },
+ {
+  "CD_MUN": 2501708,
+  "NM_MUN": "Barra de São Miguel"
+ },
+ {
+  "CD_MUN": 2501906,
+  "NM_MUN": "Belém"
+ },
+ {
+  "CD_MUN": 2502003,
+  "NM_MUN": "Belém do Brejo do Cruz"
+ },
+ {
+  "CD_MUN": 2502052,
+  "NM_MUN": "Bernardino Batista"
+ },
+ {
+  "CD_MUN": 2502102,
+  "NM_MUN": "Boa Ventura"
+ },
+ {
+  "CD_MUN": 2502151,
+  "NM_MUN": "Boa Vista"
+ },
+ {
+  "CD_MUN": 2502201,
+  "NM_MUN": "Bom Jesus"
+ },
+ {
+  "CD_MUN": 2502300,
+  "NM_MUN": "Bom Sucesso"
+ },
+ {
+  "CD_MUN": 2502409,
+  "NM_MUN": "Bonito de Santa Fé"
+ },
+ {
+  "CD_MUN": 2502508,
+  "NM_MUN": "Boqueirão"
+ },
+ {
+  "CD_MUN": 2502607,
+  "NM_MUN": "Igaracy"
+ },
+ {
+  "CD_MUN": 2502706,
+  "NM_MUN": "Borborema"
+ },
+ {
+  "CD_MUN": 2502805,
+  "NM_MUN": "Brejo do Cruz"
+ },
+ {
+  "CD_MUN": 2502904,
+  "NM_MUN": "Brejo dos Santos"
+ },
+ {
+  "CD_MUN": 2503100,
+  "NM_MUN": "Cabaceiras"
+ },
+ {
+  "CD_MUN": 2503308,
+  "NM_MUN": "Cachoeira dos Índios"
+ },
+ {
+  "CD_MUN": 2503407,
+  "NM_MUN": "Cacimba de Areia"
+ },
+ {
+  "CD_MUN": 2503506,
+  "NM_MUN": "Cacimba de Dentro"
+ },
+ {
+  "CD_MUN": 2503555,
+  "NM_MUN": "Cacimbas"
+ },
+ {
+  "CD_MUN": 2503605,
+  "NM_MUN": "Caiçara"
+ },
+ {
+  "CD_MUN": 2503704,
+  "NM_MUN": "Cajazeiras"
+ },
+ {
+  "CD_MUN": 2503753,
+  "NM_MUN": "Cajazeirinhas"
+ },
+ {
+  "CD_MUN": 2503803,
+  "NM_MUN": "Caldas Brandão"
+ },
+ {
+  "CD_MUN": 2503902,
+  "NM_MUN": "Camalaú"
+ },
+ {
+  "CD_MUN": 2504009,
+  "NM_MUN": "Campina Grande"
+ },
+ {
+  "CD_MUN": 2504074,
+  "NM_MUN": "Caraúbas"
+ },
+ {
+  "CD_MUN": 2504108,
+  "NM_MUN": "Carrapateira"
+ },
+ {
+  "CD_MUN": 2504157,
+  "NM_MUN": "Casserengue"
+ },
+ {
+  "CD_MUN": 2504207,
+  "NM_MUN": "Catingueira"
+ },
+ {
+  "CD_MUN": 2504306,
+  "NM_MUN": "Catolé do Rocha"
+ },
+ {
+  "CD_MUN": 2504355,
+  "NM_MUN": "Caturité"
+ },
+ {
+  "CD_MUN": 2504405,
+  "NM_MUN": "Conceição"
+ },
+ {
+  "CD_MUN": 2504504,
+  "NM_MUN": "Condado"
+ },
+ {
+  "CD_MUN": 2504702,
+  "NM_MUN": "Congo"
+ },
+ {
+  "CD_MUN": 2504801,
+  "NM_MUN": "Coremas"
+ },
+ {
+  "CD_MUN": 2504850,
+  "NM_MUN": "Coxixola"
+ },
+ {
+  "CD_MUN": 2505006,
+  "NM_MUN": "Cubati"
+ },
+ {
+  "CD_MUN": 2505105,
+  "NM_MUN": "Cuité"
+ },
+ {
+  "CD_MUN": 2505204,
+  "NM_MUN": "Cuitegi"
+ },
+ {
+  "CD_MUN": 2505238,
+  "NM_MUN": "CUITÉ DE MAMANGUAPE"
+ },
+ {
+  "CD_MUN": 2505303,
+  "NM_MUN": "Curral Velho"
+ },
+ {
+  "CD_MUN": 2505352,
+  "NM_MUN": "Damião"
+ },
+ {
+  "CD_MUN": 2505402,
+  "NM_MUN": "Desterro"
+ },
+ {
+  "CD_MUN": 2505501,
+  "NM_MUN": "Vista Serrana"
+ },
+ {
+  "CD_MUN": 2505600,
+  "NM_MUN": "Diamante"
+ },
+ {
+  "CD_MUN": 2505709,
+  "NM_MUN": "Dona Inês"
+ },
+ {
+  "CD_MUN": 2505808,
+  "NM_MUN": "Duas Estradas"
+ },
+ {
+  "CD_MUN": 2505907,
+  "NM_MUN": "Emas"
+ },
+ {
+  "CD_MUN": 2506004,
+  "NM_MUN": "Esperança"
+ },
+ {
+  "CD_MUN": 2506103,
+  "NM_MUN": "Fagundes"
+ },
+ {
+  "CD_MUN": 2506202,
+  "NM_MUN": "Frei Martinho"
+ },
+ {
+  "CD_MUN": 2506251,
+  "NM_MUN": "Gado Bravo"
+ },
+ {
+  "CD_MUN": 2506301,
+  "NM_MUN": "Guarabira"
+ },
+ {
+  "CD_MUN": 2506400,
+  "NM_MUN": "Gurinhém"
+ },
+ {
+  "CD_MUN": 2506509,
+  "NM_MUN": "Gurjão"
+ },
+ {
+  "CD_MUN": 2506608,
+  "NM_MUN": "Ibiara"
+ },
+ {
+  "CD_MUN": 2506707,
+  "NM_MUN": "Imaculada"
+ },
+ {
+  "CD_MUN": 2506806,
+  "NM_MUN": "Ingá"
+ },
+ {
+  "CD_MUN": 2506905,
+  "NM_MUN": "Itabaiana"
+ },
+ {
+  "CD_MUN": 2507002,
+  "NM_MUN": "Itaporanga"
+ },
+ {
+  "CD_MUN": 2507200,
+  "NM_MUN": "Itatuba"
+ },
+ {
+  "CD_MUN": 2507408,
+  "NM_MUN": "Jericó"
+ },
+ {
+  "CD_MUN": 2507606,
+  "NM_MUN": "Juarez Távora"
+ },
+ {
+  "CD_MUN": 2507705,
+  "NM_MUN": "Juazeirinho"
+ },
+ {
+  "CD_MUN": 2507804,
+  "NM_MUN": "Junco do Seridó"
+ },
+ {
+  "CD_MUN": 2508000,
+  "NM_MUN": "Juru"
+ },
+ {
+  "CD_MUN": 2508109,
+  "NM_MUN": "Lagoa"
+ },
+ {
+  "CD_MUN": 2508208,
+  "NM_MUN": "Lagoa de Dentro"
+ },
+ {
+  "CD_MUN": 2508307,
+  "NM_MUN": "Lagoa Seca"
+ },
+ {
+  "CD_MUN": 2508406,
+  "NM_MUN": "Lastro"
+ },
+ {
+  "CD_MUN": 2508505,
+  "NM_MUN": "Livramento"
+ },
+ {
+  "CD_MUN": 2508554,
+  "NM_MUN": "Logradouro"
+ },
+ {
+  "CD_MUN": 2508703,
+  "NM_MUN": "Mãe d'Água"
+ },
+ {
+  "CD_MUN": 2508802,
+  "NM_MUN": "Malta"
+ },
+ {
+  "CD_MUN": 2509008,
+  "NM_MUN": "Manaíra"
+ },
+ {
+  "CD_MUN": 2509107,
+  "NM_MUN": "MARI"
+ },
+ {
+  "CD_MUN": 2509156,
+  "NM_MUN": "Marizópolis"
+ },
+ {
+  "CD_MUN": 2509206,
+  "NM_MUN": "Massaranduba"
+ },
+ {
+  "CD_MUN": 2509339,
+  "NM_MUN": "Matinhas"
+ },
+ {
+  "CD_MUN": 2509370,
+  "NM_MUN": "Mato Grosso"
+ },
+ {
+  "CD_MUN": 2509396,
+  "NM_MUN": "Maturéia"
+ },
+ {
+  "CD_MUN": 2509404,
+  "NM_MUN": "Mogeiro"
+ },
+ {
+  "CD_MUN": 2509503,
+  "NM_MUN": "Montadas"
+ },
+ {
+  "CD_MUN": 2509602,
+  "NM_MUN": "Monte Horebe"
+ },
+ {
+  "CD_MUN": 2509701,
+  "NM_MUN": "Monteiro"
+ },
+ {
+  "CD_MUN": 2509800,
+  "NM_MUN": "Mulungu"
+ },
+ {
+  "CD_MUN": 2509909,
+  "NM_MUN": "Natuba"
+ },
+ {
+  "CD_MUN": 2510006,
+  "NM_MUN": "Nazarezinho"
+ },
+ {
+  "CD_MUN": 2510105,
+  "NM_MUN": "Nova Floresta"
+ },
+ {
+  "CD_MUN": 2510204,
+  "NM_MUN": "Nova Olinda"
+ },
+ {
+  "CD_MUN": 2510303,
+  "NM_MUN": "Nova Palmeira"
+ },
+ {
+  "CD_MUN": 2510402,
+  "NM_MUN": "Olho d'Água"
+ },
+ {
+  "CD_MUN": 2510501,
+  "NM_MUN": "Olivedos"
+ },
+ {
+  "CD_MUN": 2510600,
+  "NM_MUN": "Ouro Velho"
+ },
+ {
+  "CD_MUN": 2510659,
+  "NM_MUN": "Parari"
+ },
+ {
+  "CD_MUN": 2510709,
+  "NM_MUN": "Passagem"
+ },
+ {
+  "CD_MUN": 2510808,
+  "NM_MUN": "Patos"
+ },
+ {
+  "CD_MUN": 2510907,
+  "NM_MUN": "Paulista"
+ },
+ {
+  "CD_MUN": 2511004,
+  "NM_MUN": "Pedra Branca"
+ },
+ {
+  "CD_MUN": 2511103,
+  "NM_MUN": "Pedra Lavrada"
+ },
+ {
+  "CD_MUN": 2511301,
+  "NM_MUN": "Piancó"
+ },
+ {
+  "CD_MUN": 2511400,
+  "NM_MUN": "Picuí"
+ },
+ {
+  "CD_MUN": 2511608,
+  "NM_MUN": "Pilões"
+ },
+ {
+  "CD_MUN": 2511707,
+  "NM_MUN": "Pilõezinhos"
+ },
+ {
+  "CD_MUN": 2511806,
+  "NM_MUN": "Pirpirituba"
+ },
+ {
+  "CD_MUN": 2512002,
+  "NM_MUN": "Pocinhos"
+ },
+ {
+  "CD_MUN": 2512036,
+  "NM_MUN": "Poço Dantas"
+ },
+ {
+  "CD_MUN": 2512077,
+  "NM_MUN": "Poço de José de Moura"
+ },
+ {
+  "CD_MUN": 2512101,
+  "NM_MUN": "Pombal"
+ },
+ {
+  "CD_MUN": 2512200,
+  "NM_MUN": "Prata"
+ },
+ {
+  "CD_MUN": 2512309,
+  "NM_MUN": "Princesa Isabel"
+ },
+ {
+  "CD_MUN": 2512408,
+  "NM_MUN": "Puxinanã"
+ },
+ {
+  "CD_MUN": 2512507,
+  "NM_MUN": "Queimadas"
+ },
+ {
+  "CD_MUN": 2512606,
+  "NM_MUN": "Quixaba"
+ },
+ {
+  "CD_MUN": 2512705,
+  "NM_MUN": "Remígio"
+ },
+ {
+  "CD_MUN": 2512747,
+  "NM_MUN": "Riachão"
+ },
+ {
+  "CD_MUN": 2512754,
+  "NM_MUN": "Riachão do Bacamarte"
+ },
+ {
+  "CD_MUN": 2512762,
+  "NM_MUN": "RIACHÃO DO POÇO"
+ },
+ {
+  "CD_MUN": 2512788,
+  "NM_MUN": "Riacho de Santo Antônio"
+ },
+ {
+  "CD_MUN": 2512804,
+  "NM_MUN": "Riacho dos Cavalos"
+ },
+ {
+  "CD_MUN": 2513000,
+  "NM_MUN": "Salgadinho"
+ },
+ {
+  "CD_MUN": 2513109,
+  "NM_MUN": "Salgado de São Félix"
+ },
+ {
+  "CD_MUN": 2513158,
+  "NM_MUN": "Santa Cecília"
+ },
+ {
+  "CD_MUN": 2513208,
+  "NM_MUN": "Santa Cruz"
+ },
+ {
+  "CD_MUN": 2513307,
+  "NM_MUN": "Santa Helena"
+ },
+ {
+  "CD_MUN": 2513356,
+  "NM_MUN": "Santa Inês"
+ },
+ {
+  "CD_MUN": 2513406,
+  "NM_MUN": "Santa Luzia"
+ },
+ {
+  "CD_MUN": 2513505,
+  "NM_MUN": "Santana de Mangueira"
+ },
+ {
+  "CD_MUN": 2513604,
+  "NM_MUN": "Santana dos Garrotes"
+ },
+ {
+  "CD_MUN": 2513653,
+  "NM_MUN": "Joca Claudino"
+ },
+ {
+  "CD_MUN": 2513802,
+  "NM_MUN": "Santa Teresinha"
+ },
+ {
+  "CD_MUN": 2513851,
+  "NM_MUN": "Santo André"
+ },
+ {
+  "CD_MUN": 2513901,
+  "NM_MUN": "São Bento"
+ },
+ {
+  "CD_MUN": 2513927,
+  "NM_MUN": "São Bentinho"
+ },
+ {
+  "CD_MUN": 2513943,
+  "NM_MUN": "São Domingos do Cariri"
+ },
+ {
+  "CD_MUN": 2513968,
+  "NM_MUN": "São Domingos"
+ },
+ {
+  "CD_MUN": 2513984,
+  "NM_MUN": "São Francisco"
+ },
+ {
+  "CD_MUN": 2514008,
+  "NM_MUN": "São João do Cariri"
+ },
+ {
+  "CD_MUN": 2514107,
+  "NM_MUN": "São João do Tigre"
+ },
+ {
+  "CD_MUN": 2514206,
+  "NM_MUN": "São José da Lagoa Tapada"
+ },
+ {
+  "CD_MUN": 2514305,
+  "NM_MUN": "São José de Caiana"
+ },
+ {
+  "CD_MUN": 2514404,
+  "NM_MUN": "São José de Espinharas"
+ },
+ {
+  "CD_MUN": 2514453,
+  "NM_MUN": "São José dos Ramos"
+ },
+ {
+  "CD_MUN": 2514503,
+  "NM_MUN": "São José de Piranhas"
+ },
+ {
+  "CD_MUN": 2514552,
+  "NM_MUN": "São José de Princesa"
+ },
+ {
+  "CD_MUN": 2514602,
+  "NM_MUN": "São José do Bonfim"
+ },
+ {
+  "CD_MUN": 2514651,
+  "NM_MUN": "São José do Brejo do Cruz"
+ },
+ {
+  "CD_MUN": 2514701,
+  "NM_MUN": "São José do Sabugi"
+ },
+ {
+  "CD_MUN": 2514800,
+  "NM_MUN": "São José dos Cordeiros"
+ },
+ {
+  "CD_MUN": 2514909,
+  "NM_MUN": "São Mamede"
+ },
+ {
+  "CD_MUN": 2515104,
+  "NM_MUN": "São Sebastião de Lagoa de Roça"
+ },
+ {
+  "CD_MUN": 2515203,
+  "NM_MUN": "São Sebastião do Umbuzeiro"
+ },
+ {
+  "CD_MUN": 2515401,
+  "NM_MUN": "São Vicente do Seridó"
+ },
+ {
+  "CD_MUN": 2515500,
+  "NM_MUN": "Serra Branca"
+ },
+ {
+  "CD_MUN": 2515609,
+  "NM_MUN": "Serra da Raiz"
+ },
+ {
+  "CD_MUN": 2515708,
+  "NM_MUN": "Serra Grande"
+ },
+ {
+  "CD_MUN": 2515807,
+  "NM_MUN": "Serra Redonda"
+ },
+ {
+  "CD_MUN": 2515906,
+  "NM_MUN": "Serraria"
+ },
+ {
+  "CD_MUN": 2515930,
+  "NM_MUN": "Sertãozinho"
+ },
+ {
+  "CD_MUN": 2515971,
+  "NM_MUN": "SOBRADO"
+ },
+ {
+  "CD_MUN": 2516003,
+  "NM_MUN": "Solânea"
+ },
+ {
+  "CD_MUN": 2516102,
+  "NM_MUN": "Soledade"
+ },
+ {
+  "CD_MUN": 2516151,
+  "NM_MUN": "Sossêgo"
+ },
+ {
+  "CD_MUN": 2516201,
+  "NM_MUN": "Sousa"
+ },
+ {
+  "CD_MUN": 2516300,
+  "NM_MUN": "Sumé"
+ },
+ {
+  "CD_MUN": 2516409,
+  "NM_MUN": "Tacima"
+ },
+ {
+  "CD_MUN": 2516508,
+  "NM_MUN": "Taperoá"
+ },
+ {
+  "CD_MUN": 2516607,
+  "NM_MUN": "Tavares"
+ },
+ {
+  "CD_MUN": 2516706,
+  "NM_MUN": "Teixeira"
+ },
+ {
+  "CD_MUN": 2516755,
+  "NM_MUN": "Tenório"
+ },
+ {
+  "CD_MUN": 2516805,
+  "NM_MUN": "Triunfo"
+ },
+ {
+  "CD_MUN": 2516904,
+  "NM_MUN": "Uiraúna"
+ },
+ {
+  "CD_MUN": 2517001,
+  "NM_MUN": "Umbuzeiro"
+ },
+ {
+  "CD_MUN": 2517100,
+  "NM_MUN": "Várzea"
+ },
+ {
+  "CD_MUN": 2517209,
+  "NM_MUN": "Vieirópolis"
+ },
+ {
+  "CD_MUN": 2517407,
+  "NM_MUN": "Zabelê"
+ },
+ {
+  "CD_MUN": 2600104,
+  "NM_MUN": "Afogados da Ingazeira"
+ },
+ {
+  "CD_MUN": 2600203,
+  "NM_MUN": "Afrânio"
+ },
+ {
+  "CD_MUN": 2600302,
+  "NM_MUN": "Agrestina"
+ },
+ {
+  "CD_MUN": 2600500,
+  "NM_MUN": "Águas Belas"
+ },
+ {
+  "CD_MUN": 2600609,
+  "NM_MUN": "Alagoinha"
+ },
+ {
+  "CD_MUN": 2600708,
+  "NM_MUN": "ALIANÇA"
+ },
+ {
+  "CD_MUN": 2600807,
+  "NM_MUN": "Altinho"
+ },
+ {
+  "CD_MUN": 2601003,
+  "NM_MUN": "Angelim"
+ },
+ {
+  "CD_MUN": 2601102,
+  "NM_MUN": "Araripina"
+ },
+ {
+  "CD_MUN": 2601201,
+  "NM_MUN": "Arcoverde"
+ },
+ {
+  "CD_MUN": 2601607,
+  "NM_MUN": "Belém do São Francisco"
+ },
+ {
+  "CD_MUN": 2601706,
+  "NM_MUN": "Belo Jardim"
+ },
+ {
+  "CD_MUN": 2601805,
+  "NM_MUN": "Betânia"
+ },
+ {
+  "CD_MUN": 2601904,
+  "NM_MUN": "Bezerros"
+ },
+ {
+  "CD_MUN": 2602001,
+  "NM_MUN": "Bodocó"
+ },
+ {
+  "CD_MUN": 2602100,
+  "NM_MUN": "Bom Conselho"
+ },
+ {
+  "CD_MUN": 2602209,
+  "NM_MUN": "Bom Jardim"
+ },
+ {
+  "CD_MUN": 2602407,
+  "NM_MUN": "Brejão"
+ },
+ {
+  "CD_MUN": 2602506,
+  "NM_MUN": "Brejinho"
+ },
+ {
+  "CD_MUN": 2602605,
+  "NM_MUN": "Brejo da Madre de Deus"
+ },
+ {
+  "CD_MUN": 2602704,
+  "NM_MUN": "BUENOS AIRES"
+ },
+ {
+  "CD_MUN": 2602803,
+  "NM_MUN": "Buíque"
+ },
+ {
+  "CD_MUN": 2603009,
+  "NM_MUN": "Cabrobó"
+ },
+ {
+  "CD_MUN": 2603108,
+  "NM_MUN": "Cachoeirinha"
+ },
+ {
+  "CD_MUN": 2603207,
+  "NM_MUN": "Caetés"
+ },
+ {
+  "CD_MUN": 2603306,
+  "NM_MUN": "Calçado"
+ },
+ {
+  "CD_MUN": 2603405,
+  "NM_MUN": "Calumbi"
+ },
+ {
+  "CD_MUN": 2603504,
+  "NM_MUN": "Camocim de São Félix"
+ },
+ {
+  "CD_MUN": 2603603,
+  "NM_MUN": "CAMUTANGA"
+ },
+ {
+  "CD_MUN": 2603702,
+  "NM_MUN": "Canhotinho"
+ },
+ {
+  "CD_MUN": 2603801,
+  "NM_MUN": "Capoeiras"
+ },
+ {
+  "CD_MUN": 2603900,
+  "NM_MUN": "Carnaíba"
+ },
+ {
+  "CD_MUN": 2603926,
+  "NM_MUN": "Carnaubeira da Penha"
+ },
+ {
+  "CD_MUN": 2604007,
+  "NM_MUN": "CARPINA"
+ },
+ {
+  "CD_MUN": 2604106,
+  "NM_MUN": "Caruaru"
+ },
+ {
+  "CD_MUN": 2604155,
+  "NM_MUN": "Casinhas"
+ },
+ {
+  "CD_MUN": 2604304,
+  "NM_MUN": "Cedro"
+ },
+ {
+  "CD_MUN": 2604502,
+  "NM_MUN": "Chã Grande"
+ },
+ {
+  "CD_MUN": 2604700,
+  "NM_MUN": "Correntes"
+ },
+ {
+  "CD_MUN": 2604908,
+  "NM_MUN": "Cumaru"
+ },
+ {
+  "CD_MUN": 2605004,
+  "NM_MUN": "Cupira"
+ },
+ {
+  "CD_MUN": 2605103,
+  "NM_MUN": "Custódia"
+ },
+ {
+  "CD_MUN": 2605152,
+  "NM_MUN": "Dormentes"
+ },
+ {
+  "CD_MUN": 2605301,
+  "NM_MUN": "Exu"
+ },
+ {
+  "CD_MUN": 2605400,
+  "NM_MUN": "FEIRA NOVA"
+ },
+ {
+  "CD_MUN": 2605509,
+  "NM_MUN": "FERREIROS"
+ },
+ {
+  "CD_MUN": 2605608,
+  "NM_MUN": "Flores"
+ },
+ {
+  "CD_MUN": 2605707,
+  "NM_MUN": "Floresta"
+ },
+ {
+  "CD_MUN": 2605806,
+  "NM_MUN": "Frei Miguelinho"
+ },
+ {
+  "CD_MUN": 2606002,
+  "NM_MUN": "Garanhuns"
+ },
+ {
+  "CD_MUN": 2606101,
+  "NM_MUN": "GLÓRIA DO GOITÁ"
+ },
+ {
+  "CD_MUN": 2606309,
+  "NM_MUN": "Granito"
+ },
+ {
+  "CD_MUN": 2606408,
+  "NM_MUN": "Gravatá"
+ },
+ {
+  "CD_MUN": 2606507,
+  "NM_MUN": "Iati"
+ },
+ {
+  "CD_MUN": 2606606,
+  "NM_MUN": "Ibimirim"
+ },
+ {
+  "CD_MUN": 2606705,
+  "NM_MUN": "Ibirajuba"
+ },
+ {
+  "CD_MUN": 2606903,
+  "NM_MUN": "Iguaracy"
+ },
+ {
+  "CD_MUN": 2607000,
+  "NM_MUN": "Inajá"
+ },
+ {
+  "CD_MUN": 2607109,
+  "NM_MUN": "Ingazeira"
+ },
+ {
+  "CD_MUN": 2607307,
+  "NM_MUN": "Ipubi"
+ },
+ {
+  "CD_MUN": 2607406,
+  "NM_MUN": "Itacuruba"
+ },
+ {
+  "CD_MUN": 2607505,
+  "NM_MUN": "Itaíba"
+ },
+ {
+  "CD_MUN": 2607653,
+  "NM_MUN": "ITAMBÉ"
+ },
+ {
+  "CD_MUN": 2607703,
+  "NM_MUN": "Itapetim"
+ },
+ {
+  "CD_MUN": 2608008,
+  "NM_MUN": "Jataúba"
+ },
+ {
+  "CD_MUN": 2608057,
+  "NM_MUN": "Jatobá"
+ },
+ {
+  "CD_MUN": 2608107,
+  "NM_MUN": "João Alfredo"
+ },
+ {
+  "CD_MUN": 2608255,
+  "NM_MUN": "Jucati"
+ },
+ {
+  "CD_MUN": 2608305,
+  "NM_MUN": "Jupi"
+ },
+ {
+  "CD_MUN": 2608404,
+  "NM_MUN": "Jurema"
+ },
+ {
+  "CD_MUN": 2608453,
+  "NM_MUN": "LAGOA DO CARRO"
+ },
+ {
+  "CD_MUN": 2608503,
+  "NM_MUN": "LAGOA DE ITAENGA"
+ },
+ {
+  "CD_MUN": 2608602,
+  "NM_MUN": "Lagoa do Ouro"
+ },
+ {
+  "CD_MUN": 2608701,
+  "NM_MUN": "Lagoa dos Gatos"
+ },
+ {
+  "CD_MUN": 2608750,
+  "NM_MUN": "Lagoa Grande"
+ },
+ {
+  "CD_MUN": 2608800,
+  "NM_MUN": "Lajedo"
+ },
+ {
+  "CD_MUN": 2608909,
+  "NM_MUN": "LIMOEIRO"
+ },
+ {
+  "CD_MUN": 2609006,
+  "NM_MUN": "MACAPARANA"
+ },
+ {
+  "CD_MUN": 2609105,
+  "NM_MUN": "MACHADOS"
+ },
+ {
+  "CD_MUN": 2609154,
+  "NM_MUN": "Manari"
+ },
+ {
+  "CD_MUN": 2609303,
+  "NM_MUN": "Mirandiba"
+ },
+ {
+  "CD_MUN": 2609501,
+  "NM_MUN": "NAZARÉ DA MATA"
+ },
+ {
+  "CD_MUN": 2609709,
+  "NM_MUN": "Orobó"
+ },
+ {
+  "CD_MUN": 2609808,
+  "NM_MUN": "Orocó"
+ },
+ {
+  "CD_MUN": 2609907,
+  "NM_MUN": "Ouricuri"
+ },
+ {
+  "CD_MUN": 2610103,
+  "NM_MUN": "Palmeirina"
+ },
+ {
+  "CD_MUN": 2610202,
+  "NM_MUN": "Panelas"
+ },
+ {
+  "CD_MUN": 2610301,
+  "NM_MUN": "Paranatama"
+ },
+ {
+  "CD_MUN": 2610400,
+  "NM_MUN": "Parnamirim"
+ },
+ {
+  "CD_MUN": 2610509,
+  "NM_MUN": "Passira"
+ },
+ {
+  "CD_MUN": 2610806,
+  "NM_MUN": "Pedra"
+ },
+ {
+  "CD_MUN": 2610905,
+  "NM_MUN": "Pesqueira"
+ },
+ {
+  "CD_MUN": 2611002,
+  "NM_MUN": "Petrolândia"
+ },
+ {
+  "CD_MUN": 2611101,
+  "NM_MUN": "Petrolina"
+ },
+ {
+  "CD_MUN": 2611200,
+  "NM_MUN": "Poção"
+ },
+ {
+  "CD_MUN": 2611309,
+  "NM_MUN": "Pombos"
+ },
+ {
+  "CD_MUN": 2611533,
+  "NM_MUN": "Quixaba"
+ },
+ {
+  "CD_MUN": 2611705,
+  "NM_MUN": "Riacho das Almas"
+ },
+ {
+  "CD_MUN": 2612000,
+  "NM_MUN": "Sairé"
+ },
+ {
+  "CD_MUN": 2612109,
+  "NM_MUN": "Salgadinho"
+ },
+ {
+  "CD_MUN": 2612208,
+  "NM_MUN": "Salgueiro"
+ },
+ {
+  "CD_MUN": 2612307,
+  "NM_MUN": "Saloá"
+ },
+ {
+  "CD_MUN": 2612406,
+  "NM_MUN": "Sanharó"
+ },
+ {
+  "CD_MUN": 2612455,
+  "NM_MUN": "Santa Cruz"
+ },
+ {
+  "CD_MUN": 2612471,
+  "NM_MUN": "Santa Cruz da Baixa Verde"
+ },
+ {
+  "CD_MUN": 2612505,
+  "NM_MUN": "Santa Cruz do Capibaribe"
+ },
+ {
+  "CD_MUN": 2612554,
+  "NM_MUN": "Santa Filomena"
+ },
+ {
+  "CD_MUN": 2612604,
+  "NM_MUN": "Santa Maria da Boa Vista"
+ },
+ {
+  "CD_MUN": 2612703,
+  "NM_MUN": "Santa Maria do Cambucá"
+ },
+ {
+  "CD_MUN": 2612802,
+  "NM_MUN": "Santa Terezinha"
+ },
+ {
+  "CD_MUN": 2613008,
+  "NM_MUN": "São Bento do Una"
+ },
+ {
+  "CD_MUN": 2613107,
+  "NM_MUN": "São Caitano"
+ },
+ {
+  "CD_MUN": 2613206,
+  "NM_MUN": "São João"
+ },
+ {
+  "CD_MUN": 2613305,
+  "NM_MUN": "São Joaquim do Monte"
+ },
+ {
+  "CD_MUN": 2613503,
+  "NM_MUN": "São José do Belmonte"
+ },
+ {
+  "CD_MUN": 2613602,
+  "NM_MUN": "São José do Egito"
+ },
+ {
+  "CD_MUN": 2613800,
+  "NM_MUN": "SÃO VICENTE FÉRRER"
+ },
+ {
+  "CD_MUN": 2613909,
+  "NM_MUN": "Serra Talhada"
+ },
+ {
+  "CD_MUN": 2614006,
+  "NM_MUN": "Serrita"
+ },
+ {
+  "CD_MUN": 2614105,
+  "NM_MUN": "Sertânia"
+ },
+ {
+  "CD_MUN": 2614303,
+  "NM_MUN": "Moreilândia"
+ },
+ {
+  "CD_MUN": 2614402,
+  "NM_MUN": "Solidão"
+ },
+ {
+  "CD_MUN": 2614501,
+  "NM_MUN": "Surubim"
+ },
+ {
+  "CD_MUN": 2614600,
+  "NM_MUN": "Tabira"
+ },
+ {
+  "CD_MUN": 2614709,
+  "NM_MUN": "Tacaimbó"
+ },
+ {
+  "CD_MUN": 2614808,
+  "NM_MUN": "Tacaratu"
+ },
+ {
+  "CD_MUN": 2615003,
+  "NM_MUN": "Taquaritinga do Norte"
+ },
+ {
+  "CD_MUN": 2615102,
+  "NM_MUN": "Terezinha"
+ },
+ {
+  "CD_MUN": 2615201,
+  "NM_MUN": "Terra Nova"
+ },
+ {
+  "CD_MUN": 2615300,
+  "NM_MUN": "TIMBAÚBA"
+ },
+ {
+  "CD_MUN": 2615409,
+  "NM_MUN": "Toritama"
+ },
+ {
+  "CD_MUN": 2615508,
+  "NM_MUN": "TRACUNHAÉM"
+ },
+ {
+  "CD_MUN": 2615607,
+  "NM_MUN": "Trindade"
+ },
+ {
+  "CD_MUN": 2615706,
+  "NM_MUN": "Triunfo"
+ },
+ {
+  "CD_MUN": 2615805,
+  "NM_MUN": "Tupanatinga"
+ },
+ {
+  "CD_MUN": 2615904,
+  "NM_MUN": "Tuparetama"
+ },
+ {
+  "CD_MUN": 2616001,
+  "NM_MUN": "Venturosa"
+ },
+ {
+  "CD_MUN": 2616100,
+  "NM_MUN": "Verdejante"
+ },
+ {
+  "CD_MUN": 2616183,
+  "NM_MUN": "Vertente do Lério"
+ },
+ {
+  "CD_MUN": 2616209,
+  "NM_MUN": "Vertentes"
+ },
+ {
+  "CD_MUN": 2616308,
+  "NM_MUN": "VICÊNCIA"
+ },
+ {
+  "CD_MUN": 2616407,
+  "NM_MUN": "VITÓRIA DE SANTO ANTÃO"
+ },
+ {
+  "CD_MUN": 2700102,
+  "NM_MUN": "Água Branca"
+ },
+ {
+  "CD_MUN": 2700300,
+  "NM_MUN": "Arapiraca"
+ },
+ {
+  "CD_MUN": 2700706,
+  "NM_MUN": "Batalha"
+ },
+ {
+  "CD_MUN": 2700904,
+  "NM_MUN": "Belo Monte"
+ },
+ {
+  "CD_MUN": 2701209,
+  "NM_MUN": "Cacimbinhas"
+ },
+ {
+  "CD_MUN": 2701506,
+  "NM_MUN": "CAMPO GRANDE"
+ },
+ {
+  "CD_MUN": 2701605,
+  "NM_MUN": "Canapi"
+ },
+ {
+  "CD_MUN": 2701803,
+  "NM_MUN": "Carneiros"
+ },
+ {
+  "CD_MUN": 2702009,
+  "NM_MUN": "Coité do Nóia"
+ },
+ {
+  "CD_MUN": 2702355,
+  "NM_MUN": "Craíbas"
+ },
+ {
+  "CD_MUN": 2702405,
+  "NM_MUN": "Delmiro Gouveia"
+ },
+ {
+  "CD_MUN": 2702504,
+  "NM_MUN": "Dois Riachos"
+ },
+ {
+  "CD_MUN": 2702553,
+  "NM_MUN": "Estrela de Alagoas"
+ },
+ {
+  "CD_MUN": 2702900,
+  "NM_MUN": "Girau do Ponciano"
+ },
+ {
+  "CD_MUN": 2703106,
+  "NM_MUN": "Igaci"
+ },
+ {
+  "CD_MUN": 2703304,
+  "NM_MUN": "Inhapi"
+ },
+ {
+  "CD_MUN": 2703403,
+  "NM_MUN": "Jacaré dos Homens"
+ },
+ {
+  "CD_MUN": 2703700,
+  "NM_MUN": "Jaramataia"
+ },
+ {
+  "CD_MUN": 2704104,
+  "NM_MUN": "Lagoa da Canoa"
+ },
+ {
+  "CD_MUN": 2704401,
+  "NM_MUN": "Major Isidoro"
+ },
+ {
+  "CD_MUN": 2704609,
+  "NM_MUN": "Maravilha"
+ },
+ {
+  "CD_MUN": 2705002,
+  "NM_MUN": "Mata Grande"
+ },
+ {
+  "CD_MUN": 2705309,
+  "NM_MUN": "Minador do Negrão"
+ },
+ {
+  "CD_MUN": 2705408,
+  "NM_MUN": "Monteirópolis"
+ },
+ {
+  "CD_MUN": 2705705,
+  "NM_MUN": "Olho d'Água das Flores"
+ },
+ {
+  "CD_MUN": 2705804,
+  "NM_MUN": "Olho d'Água do Casado"
+ },
+ {
+  "CD_MUN": 2705903,
+  "NM_MUN": "OLHO D'ÁGUA GRANDE"
+ },
+ {
+  "CD_MUN": 2706000,
+  "NM_MUN": "Olivença"
+ },
+ {
+  "CD_MUN": 2706109,
+  "NM_MUN": "Ouro Branco"
+ },
+ {
+  "CD_MUN": 2706208,
+  "NM_MUN": "Palestina"
+ },
+ {
+  "CD_MUN": 2706307,
+  "NM_MUN": "Palmeira dos Índios"
+ },
+ {
+  "CD_MUN": 2706406,
+  "NM_MUN": "Pão de Açúcar"
+ },
+ {
+  "CD_MUN": 2706422,
+  "NM_MUN": "Pariconha"
+ },
+ {
+  "CD_MUN": 2707107,
+  "NM_MUN": "Piranhas"
+ },
+ {
+  "CD_MUN": 2707206,
+  "NM_MUN": "Poço das Trincheiras"
+ },
+ {
+  "CD_MUN": 2707503,
+  "NM_MUN": "PORTO REAL DO COLÉGIO"
+ },
+ {
+  "CD_MUN": 2707602,
+  "NM_MUN": "Quebrangulo"
+ },
+ {
+  "CD_MUN": 2708006,
+  "NM_MUN": "Santana do Ipanema"
+ },
+ {
+  "CD_MUN": 2708204,
+  "NM_MUN": "SÃO BRÁS"
+ },
+ {
+  "CD_MUN": 2708402,
+  "NM_MUN": "São José da Tapera"
+ },
+ {
+  "CD_MUN": 2708956,
+  "NM_MUN": "Senador Rui Palmeira"
+ },
+ {
+  "CD_MUN": 2709202,
+  "NM_MUN": "Traipu"
+ },
+ {
+  "CD_MUN": 2800100,
+  "NM_MUN": "Amparo do São Francisco"
+ },
+ {
+  "CD_MUN": 2800209,
+  "NM_MUN": "Aquidabã"
+ },
+ {
+  "CD_MUN": 2801108,
+  "NM_MUN": "Canhoba"
+ },
+ {
+  "CD_MUN": 2801207,
+  "NM_MUN": "Canindé de São Francisco"
+ },
+ {
+  "CD_MUN": 2801405,
+  "NM_MUN": "Carira"
+ },
+ {
+  "CD_MUN": 2801603,
+  "NM_MUN": "Cedro de São João"
+ },
+ {
+  "CD_MUN": 2801900,
+  "NM_MUN": "Cumbe"
+ },
+ {
+  "CD_MUN": 2802205,
+  "NM_MUN": "Feira Nova"
+ },
+ {
+  "CD_MUN": 2802304,
+  "NM_MUN": "Frei Paulo"
+ },
+ {
+  "CD_MUN": 2802403,
+  "NM_MUN": "Gararu"
+ },
+ {
+  "CD_MUN": 2802601,
+  "NM_MUN": "Gracho Cardoso"
+ },
+ {
+  "CD_MUN": 2803104,
+  "NM_MUN": "Itabi"
+ },
+ {
+  "CD_MUN": 2803500,
+  "NM_MUN": "LAGARTO"
+ },
+ {
+  "CD_MUN": 2803708,
+  "NM_MUN": "Macambira"
+ },
+ {
+  "CD_MUN": 2804201,
+  "NM_MUN": "Monte Alegre de Sergipe"
+ },
+ {
+  "CD_MUN": 2804458,
+  "NM_MUN": "Nossa Senhora Aparecida"
+ },
+ {
+  "CD_MUN": 2804508,
+  "NM_MUN": "Nossa Senhora da Glória"
+ },
+ {
+  "CD_MUN": 2804607,
+  "NM_MUN": "Nossa Senhora das Dores"
+ },
+ {
+  "CD_MUN": 2804706,
+  "NM_MUN": "Nossa Senhora de Lourdes"
+ },
+ {
+  "CD_MUN": 2805000,
+  "NM_MUN": "Pedra Mole"
+ },
+ {
+  "CD_MUN": 2805208,
+  "NM_MUN": "Pinhão"
+ },
+ {
+  "CD_MUN": 2805406,
+  "NM_MUN": "Poço Redondo"
+ },
+ {
+  "CD_MUN": 2805505,
+  "NM_MUN": "Poço Verde"
+ },
+ {
+  "CD_MUN": 2805604,
+  "NM_MUN": "Porto da Folha"
+ },
+ {
+  "CD_MUN": 2805703,
+  "NM_MUN": "Propriá"
+ },
+ {
+  "CD_MUN": 2806008,
+  "NM_MUN": "Ribeirópolis"
+ },
+ {
+  "CD_MUN": 2807006,
+  "NM_MUN": "São Miguel do Aleixo"
+ },
+ {
+  "CD_MUN": 2807105,
+  "NM_MUN": "Simão Dias"
+ },
+ {
+  "CD_MUN": 2807303,
+  "NM_MUN": "Telha"
+ },
+ {
+  "CD_MUN": 2807402,
+  "NM_MUN": "Tobias Barreto"
+ },
+ {
+  "CD_MUN": 2900108,
+  "NM_MUN": "Abaíra"
+ },
+ {
+  "CD_MUN": 2900207,
+  "NM_MUN": "Abaré"
+ },
+ {
+  "CD_MUN": 2900355,
+  "NM_MUN": "Adustina"
+ },
+ {
+  "CD_MUN": 2900405,
+  "NM_MUN": "Água Fria"
+ },
+ {
+  "CD_MUN": 2900504,
+  "NM_MUN": "Érico Cardoso"
+ },
+ {
+  "CD_MUN": 2901007,
+  "NM_MUN": "Amargosa"
+ },
+ {
+  "CD_MUN": 2901155,
+  "NM_MUN": "América Dourada"
+ },
+ {
+  "CD_MUN": 2901205,
+  "NM_MUN": "Anagé"
+ },
+ {
+  "CD_MUN": 2901304,
+  "NM_MUN": "Andaraí"
+ },
+ {
+  "CD_MUN": 2901353,
+  "NM_MUN": "Andorinha"
+ },
+ {
+  "CD_MUN": 2901403,
+  "NM_MUN": "Angical"
+ },
+ {
+  "CD_MUN": 2901502,
+  "NM_MUN": "Anguera"
+ },
+ {
+  "CD_MUN": 2901601,
+  "NM_MUN": "Antas"
+ },
+ {
+  "CD_MUN": 2901700,
+  "NM_MUN": "Antônio Cardoso"
+ },
+ {
+  "CD_MUN": 2901809,
+  "NM_MUN": "Antônio Gonçalves"
+ },
+ {
+  "CD_MUN": 2902005,
+  "NM_MUN": "Aracatu"
+ },
+ {
+  "CD_MUN": 2902104,
+  "NM_MUN": "Araci"
+ },
+ {
+  "CD_MUN": 2902500,
+  "NM_MUN": "Baianópolis"
+ },
+ {
+  "CD_MUN": 2902609,
+  "NM_MUN": "Baixa Grande"
+ },
+ {
+  "CD_MUN": 2902658,
+  "NM_MUN": "Banzaê"
+ },
+ {
+  "CD_MUN": 2902708,
+  "NM_MUN": "Barra"
+ },
+ {
+  "CD_MUN": 2902807,
+  "NM_MUN": "Barra da Estiva"
+ },
+ {
+  "CD_MUN": 2902906,
+  "NM_MUN": "Barra do Choça"
+ },
+ {
+  "CD_MUN": 2903003,
+  "NM_MUN": "Barra do Mendes"
+ },
+ {
+  "CD_MUN": 2903201,
+  "NM_MUN": "Barreiras"
+ },
+ {
+  "CD_MUN": 2903235,
+  "NM_MUN": "Barro Alto"
+ },
+ {
+  "CD_MUN": 2903276,
+  "NM_MUN": "Barrocas"
+ },
+ {
+  "CD_MUN": 2903508,
+  "NM_MUN": "Belo Campo"
+ },
+ {
+  "CD_MUN": 2903607,
+  "NM_MUN": "Biritinga"
+ },
+ {
+  "CD_MUN": 2903706,
+  "NM_MUN": "Boa Nova"
+ },
+ {
+  "CD_MUN": 2903805,
+  "NM_MUN": "Boa Vista do Tupim"
+ },
+ {
+  "CD_MUN": 2903904,
+  "NM_MUN": "Bom Jesus da Lapa"
+ },
+ {
+  "CD_MUN": 2903953,
+  "NM_MUN": "Bom Jesus da Serra"
+ },
+ {
+  "CD_MUN": 2904001,
+  "NM_MUN": "Boninal"
+ },
+ {
+  "CD_MUN": 2904050,
+  "NM_MUN": "Bonito"
+ },
+ {
+  "CD_MUN": 2904100,
+  "NM_MUN": "Boquira"
+ },
+ {
+  "CD_MUN": 2904209,
+  "NM_MUN": "Botuporã"
+ },
+ {
+  "CD_MUN": 2904308,
+  "NM_MUN": "Brejões"
+ },
+ {
+  "CD_MUN": 2904407,
+  "NM_MUN": "Brejolândia"
+ },
+ {
+  "CD_MUN": 2904506,
+  "NM_MUN": "Brotas de Macaúbas"
+ },
+ {
+  "CD_MUN": 2904605,
+  "NM_MUN": "Brumado"
+ },
+ {
+  "CD_MUN": 2904753,
+  "NM_MUN": "Buritirama"
+ },
+ {
+  "CD_MUN": 2904803,
+  "NM_MUN": "Caatiba"
+ },
+ {
+  "CD_MUN": 2904852,
+  "NM_MUN": "Cabaceiras do Paraguaçu"
+ },
+ {
+  "CD_MUN": 2905008,
+  "NM_MUN": "Caculé"
+ },
+ {
+  "CD_MUN": 2905107,
+  "NM_MUN": "Caém"
+ },
+ {
+  "CD_MUN": 2905156,
+  "NM_MUN": "Caetanos"
+ },
+ {
+  "CD_MUN": 2905206,
+  "NM_MUN": "Caetité"
+ },
+ {
+  "CD_MUN": 2905305,
+  "NM_MUN": "Cafarnaum"
+ },
+ {
+  "CD_MUN": 2905503,
+  "NM_MUN": "Caldeirão Grande"
+ },
+ {
+  "CD_MUN": 2905909,
+  "NM_MUN": "Campo Alegre de Lourdes"
+ },
+ {
+  "CD_MUN": 2906006,
+  "NM_MUN": "Campo Formoso"
+ },
+ {
+  "CD_MUN": 2906105,
+  "NM_MUN": "Canápolis"
+ },
+ {
+  "CD_MUN": 2906204,
+  "NM_MUN": "Canarana"
+ },
+ {
+  "CD_MUN": 2906402,
+  "NM_MUN": "Candeal"
+ },
+ {
+  "CD_MUN": 2906600,
+  "NM_MUN": "Candiba"
+ },
+ {
+  "CD_MUN": 2906709,
+  "NM_MUN": "Cândido Sales"
+ },
+ {
+  "CD_MUN": 2906808,
+  "NM_MUN": "Cansanção"
+ },
+ {
+  "CD_MUN": 2906824,
+  "NM_MUN": "Canudos"
+ },
+ {
+  "CD_MUN": 2906857,
+  "NM_MUN": "Capela do Alto Alegre"
+ },
+ {
+  "CD_MUN": 2906873,
+  "NM_MUN": "Capim Grosso"
+ },
+ {
+  "CD_MUN": 2906899,
+  "NM_MUN": "Caraíbas"
+ },
+ {
+  "CD_MUN": 2907103,
+  "NM_MUN": "Carinhanha"
+ },
+ {
+  "CD_MUN": 2907202,
+  "NM_MUN": "Casa Nova"
+ },
+ {
+  "CD_MUN": 2907301,
+  "NM_MUN": "Castro Alves"
+ },
+ {
+  "CD_MUN": 2907400,
+  "NM_MUN": "CATOLÂNDIA"
+ },
+ {
+  "CD_MUN": 2907558,
+  "NM_MUN": "Caturama"
+ },
+ {
+  "CD_MUN": 2907608,
+  "NM_MUN": "Central"
+ },
+ {
+  "CD_MUN": 2907707,
+  "NM_MUN": "Chorrochó"
+ },
+ {
+  "CD_MUN": 2907806,
+  "NM_MUN": "Cícero Dantas"
+ },
+ {
+  "CD_MUN": 2907905,
+  "NM_MUN": "Cipó"
+ },
+ {
+  "CD_MUN": 2908101,
+  "NM_MUN": "Cocos"
+ },
+ {
+  "CD_MUN": 2908408,
+  "NM_MUN": "Conceição do Coité"
+ },
+ {
+  "CD_MUN": 2908705,
+  "NM_MUN": "Condeúba"
+ },
+ {
+  "CD_MUN": 2908804,
+  "NM_MUN": "Contendas do Sincorá"
+ },
+ {
+  "CD_MUN": 2908903,
+  "NM_MUN": "CORAÇÃO DE MARIA"
+ },
+ {
+  "CD_MUN": 2909000,
+  "NM_MUN": "Cordeiros"
+ },
+ {
+  "CD_MUN": 2909109,
+  "NM_MUN": "Coribe"
+ },
+ {
+  "CD_MUN": 2909208,
+  "NM_MUN": "Coronel João Sá"
+ },
+ {
+  "CD_MUN": 2909307,
+  "NM_MUN": "CORRENTINA"
+ },
+ {
+  "CD_MUN": 2909406,
+  "NM_MUN": "Cotegipe"
+ },
+ {
+  "CD_MUN": 2909505,
+  "NM_MUN": "Cravolândia"
+ },
+ {
+  "CD_MUN": 2909604,
+  "NM_MUN": "Crisópolis"
+ },
+ {
+  "CD_MUN": 2909703,
+  "NM_MUN": "Cristópolis"
+ },
+ {
+  "CD_MUN": 2909901,
+  "NM_MUN": "Curaçá"
+ },
+ {
+  "CD_MUN": 2910008,
+  "NM_MUN": "DÁRIO MEIRA"
+ },
+ {
+  "CD_MUN": 2910107,
+  "NM_MUN": "Dom Basílio"
+ },
+ {
+  "CD_MUN": 2910305,
+  "NM_MUN": "Elísio Medrado"
+ },
+ {
+  "CD_MUN": 2910404,
+  "NM_MUN": "Encruzilhada"
+ },
+ {
+  "CD_MUN": 2910701,
+  "NM_MUN": "Euclides da Cunha"
+ },
+ {
+  "CD_MUN": 2910750,
+  "NM_MUN": "Fátima"
+ },
+ {
+  "CD_MUN": 2910776,
+  "NM_MUN": "Feira da Mata"
+ },
+ {
+  "CD_MUN": 2910800,
+  "NM_MUN": "Feira de Santana"
+ },
+ {
+  "CD_MUN": 2910859,
+  "NM_MUN": "Filadélfia"
+ },
+ {
+  "CD_MUN": 2911105,
+  "NM_MUN": "Formosa do Rio Preto"
+ },
+ {
+  "CD_MUN": 2911253,
+  "NM_MUN": "Gavião"
+ },
+ {
+  "CD_MUN": 2911303,
+  "NM_MUN": "Gentio do Ouro"
+ },
+ {
+  "CD_MUN": 2911402,
+  "NM_MUN": "Glória"
+ },
+ {
+  "CD_MUN": 2911659,
+  "NM_MUN": "Guajeru"
+ },
+ {
+  "CD_MUN": 2911709,
+  "NM_MUN": "Guanambi"
+ },
+ {
+  "CD_MUN": 2911857,
+  "NM_MUN": "Heliópolis"
+ },
+ {
+  "CD_MUN": 2911907,
+  "NM_MUN": "Iaçu"
+ },
+ {
+  "CD_MUN": 2912004,
+  "NM_MUN": "Ibiassucê"
+ },
+ {
+  "CD_MUN": 2912202,
+  "NM_MUN": "Ibicoara"
+ },
+ {
+  "CD_MUN": 2912400,
+  "NM_MUN": "Ibipeba"
+ },
+ {
+  "CD_MUN": 2912509,
+  "NM_MUN": "Ibipitanga"
+ },
+ {
+  "CD_MUN": 2912608,
+  "NM_MUN": "Ibiquera"
+ },
+ {
+  "CD_MUN": 2913002,
+  "NM_MUN": "Ibitiara"
+ },
+ {
+  "CD_MUN": 2913101,
+  "NM_MUN": "Ibititá"
+ },
+ {
+  "CD_MUN": 2913200,
+  "NM_MUN": "Ibotirama"
+ },
+ {
+  "CD_MUN": 2913309,
+  "NM_MUN": "Ichu"
+ },
+ {
+  "CD_MUN": 2913408,
+  "NM_MUN": "Igaporã"
+ },
+ {
+  "CD_MUN": 2913507,
+  "NM_MUN": "Iguaí"
+ },
+ {
+  "CD_MUN": 2913705,
+  "NM_MUN": "Inhambupe"
+ },
+ {
+  "CD_MUN": 2913804,
+  "NM_MUN": "Ipecaetá"
+ },
+ {
+  "CD_MUN": 2914000,
+  "NM_MUN": "Ipirá"
+ },
+ {
+  "CD_MUN": 2914109,
+  "NM_MUN": "Ipupiara"
+ },
+ {
+  "CD_MUN": 2914208,
+  "NM_MUN": "Irajuba"
+ },
+ {
+  "CD_MUN": 2914307,
+  "NM_MUN": "Iramaia"
+ },
+ {
+  "CD_MUN": 2914406,
+  "NM_MUN": "Iraquara"
+ },
+ {
+  "CD_MUN": 2914505,
+  "NM_MUN": "IRARÁ"
+ },
+ {
+  "CD_MUN": 2914604,
+  "NM_MUN": "Irecê"
+ },
+ {
+  "CD_MUN": 2914703,
+  "NM_MUN": "Itaberaba"
+ },
+ {
+  "CD_MUN": 2915007,
+  "NM_MUN": "Itaeté"
+ },
+ {
+  "CD_MUN": 2915106,
+  "NM_MUN": "Itagi"
+ },
+ {
+  "CD_MUN": 2915353,
+  "NM_MUN": "Itaguaçu da Bahia"
+ },
+ {
+  "CD_MUN": 2915809,
+  "NM_MUN": "Itambé"
+ },
+ {
+  "CD_MUN": 2916401,
+  "NM_MUN": "Itapetinga"
+ },
+ {
+  "CD_MUN": 2916500,
+  "NM_MUN": "Itapicuru"
+ },
+ {
+  "CD_MUN": 2916708,
+  "NM_MUN": "Itaquara"
+ },
+ {
+  "CD_MUN": 2916807,
+  "NM_MUN": "Itarantim"
+ },
+ {
+  "CD_MUN": 2916856,
+  "NM_MUN": "Itatim"
+ },
+ {
+  "CD_MUN": 2916906,
+  "NM_MUN": "Itiruçu"
+ },
+ {
+  "CD_MUN": 2917003,
+  "NM_MUN": "Itiúba"
+ },
+ {
+  "CD_MUN": 2917102,
+  "NM_MUN": "Itororó"
+ },
+ {
+  "CD_MUN": 2917201,
+  "NM_MUN": "Ituaçu"
+ },
+ {
+  "CD_MUN": 2917334,
+  "NM_MUN": "Iuiu"
+ },
+ {
+  "CD_MUN": 2917359,
+  "NM_MUN": "JABORANDI"
+ },
+ {
+  "CD_MUN": 2917409,
+  "NM_MUN": "Jacaraci"
+ },
+ {
+  "CD_MUN": 2917508,
+  "NM_MUN": "Jacobina"
+ },
+ {
+  "CD_MUN": 2917607,
+  "NM_MUN": "Jaguaquara"
+ },
+ {
+  "CD_MUN": 2917706,
+  "NM_MUN": "Jaguarari"
+ },
+ {
+  "CD_MUN": 2918001,
+  "NM_MUN": "Jequié"
+ },
+ {
+  "CD_MUN": 2918100,
+  "NM_MUN": "Jeremoabo"
+ },
+ {
+  "CD_MUN": 2918308,
+  "NM_MUN": "JITAÚNA"
+ },
+ {
+  "CD_MUN": 2918357,
+  "NM_MUN": "João Dourado"
+ },
+ {
+  "CD_MUN": 2918407,
+  "NM_MUN": "Juazeiro"
+ },
+ {
+  "CD_MUN": 2918506,
+  "NM_MUN": "Jussara"
+ },
+ {
+  "CD_MUN": 2918605,
+  "NM_MUN": "Jussiape"
+ },
+ {
+  "CD_MUN": 2918704,
+  "NM_MUN": "Lafaiete Coutinho"
+ },
+ {
+  "CD_MUN": 2918753,
+  "NM_MUN": "Lagoa Real"
+ },
+ {
+  "CD_MUN": 2919009,
+  "NM_MUN": "Lajedinho"
+ },
+ {
+  "CD_MUN": 2919058,
+  "NM_MUN": "Lajedo do Tabocal"
+ },
+ {
+  "CD_MUN": 2919108,
+  "NM_MUN": "Lamarão"
+ },
+ {
+  "CD_MUN": 2919157,
+  "NM_MUN": "Lapão"
+ },
+ {
+  "CD_MUN": 2919306,
+  "NM_MUN": "Lençóis"
+ },
+ {
+  "CD_MUN": 2919405,
+  "NM_MUN": "Licínio de Almeida"
+ },
+ {
+  "CD_MUN": 2919504,
+  "NM_MUN": "Livramento de Nossa Senhora"
+ },
+ {
+  "CD_MUN": 2919603,
+  "NM_MUN": "Macajuba"
+ },
+ {
+  "CD_MUN": 2919702,
+  "NM_MUN": "Macarani"
+ },
+ {
+  "CD_MUN": 2919801,
+  "NM_MUN": "Macaúbas"
+ },
+ {
+  "CD_MUN": 2919900,
+  "NM_MUN": "Macururé"
+ },
+ {
+  "CD_MUN": 2919959,
+  "NM_MUN": "Maetinga"
+ },
+ {
+  "CD_MUN": 2920007,
+  "NM_MUN": "Maiquinique"
+ },
+ {
+  "CD_MUN": 2920106,
+  "NM_MUN": "Mairi"
+ },
+ {
+  "CD_MUN": 2920205,
+  "NM_MUN": "Malhada"
+ },
+ {
+  "CD_MUN": 2920304,
+  "NM_MUN": "Malhada de Pedras"
+ },
+ {
+  "CD_MUN": 2920403,
+  "NM_MUN": "Manoel Vitorino"
+ },
+ {
+  "CD_MUN": 2920452,
+  "NM_MUN": "Mansidão"
+ },
+ {
+  "CD_MUN": 2920502,
+  "NM_MUN": "Maracás"
+ },
+ {
+  "CD_MUN": 2920809,
+  "NM_MUN": "Marcionílio Souza"
+ },
+ {
+  "CD_MUN": 2921054,
+  "NM_MUN": "Matina"
+ },
+ {
+  "CD_MUN": 2921203,
+  "NM_MUN": "Miguel Calmon"
+ },
+ {
+  "CD_MUN": 2921302,
+  "NM_MUN": "Milagres"
+ },
+ {
+  "CD_MUN": 2921401,
+  "NM_MUN": "Mirangaba"
+ },
+ {
+  "CD_MUN": 2921450,
+  "NM_MUN": "Mirante"
+ },
+ {
+  "CD_MUN": 2921500,
+  "NM_MUN": "Monte Santo"
+ },
+ {
+  "CD_MUN": 2921609,
+  "NM_MUN": "Morpará"
+ },
+ {
+  "CD_MUN": 2921708,
+  "NM_MUN": "Morro do Chapéu"
+ },
+ {
+  "CD_MUN": 2921807,
+  "NM_MUN": "Mortugaba"
+ },
+ {
+  "CD_MUN": 2921906,
+  "NM_MUN": "Mucugê"
+ },
+ {
+  "CD_MUN": 2922052,
+  "NM_MUN": "Mulungu do Morro"
+ },
+ {
+  "CD_MUN": 2922102,
+  "NM_MUN": "Mundo Novo"
+ },
+ {
+  "CD_MUN": 2922250,
+  "NM_MUN": "Muquém do São Francisco"
+ },
+ {
+  "CD_MUN": 2922656,
+  "NM_MUN": "Nordestina"
+ },
+ {
+  "CD_MUN": 2922706,
+  "NM_MUN": "Nova Canaã"
+ },
+ {
+  "CD_MUN": 2922730,
+  "NM_MUN": "Nova Fátima"
+ },
+ {
+  "CD_MUN": 2922805,
+  "NM_MUN": "Nova Itarana"
+ },
+ {
+  "CD_MUN": 2922854,
+  "NM_MUN": "Nova Redenção"
+ },
+ {
+  "CD_MUN": 2922904,
+  "NM_MUN": "Nova Soure"
+ },
+ {
+  "CD_MUN": 2923035,
+  "NM_MUN": "Novo Horizonte"
+ },
+ {
+  "CD_MUN": 2923050,
+  "NM_MUN": "Novo Triunfo"
+ },
+ {
+  "CD_MUN": 2923100,
+  "NM_MUN": "Olindina"
+ },
+ {
+  "CD_MUN": 2923209,
+  "NM_MUN": "Oliveira dos Brejinhos"
+ },
+ {
+  "CD_MUN": 2923357,
+  "NM_MUN": "Ourolândia"
+ },
+ {
+  "CD_MUN": 2923407,
+  "NM_MUN": "Palmas de Monte Alto"
+ },
+ {
+  "CD_MUN": 2923506,
+  "NM_MUN": "Palmeiras"
+ },
+ {
+  "CD_MUN": 2923605,
+  "NM_MUN": "Paramirim"
+ },
+ {
+  "CD_MUN": 2923704,
+  "NM_MUN": "Paratinga"
+ },
+ {
+  "CD_MUN": 2923803,
+  "NM_MUN": "Paripiranga"
+ },
+ {
+  "CD_MUN": 2924009,
+  "NM_MUN": "Paulo Afonso"
+ },
+ {
+  "CD_MUN": 2924058,
+  "NM_MUN": "Pé de Serra"
+ },
+ {
+  "CD_MUN": 2924207,
+  "NM_MUN": "Pedro Alexandre"
+ },
+ {
+  "CD_MUN": 2924306,
+  "NM_MUN": "Piatã"
+ },
+ {
+  "CD_MUN": 2924405,
+  "NM_MUN": "Pilão Arcado"
+ },
+ {
+  "CD_MUN": 2924504,
+  "NM_MUN": "Pindaí"
+ },
+ {
+  "CD_MUN": 2924603,
+  "NM_MUN": "Pindobaçu"
+ },
+ {
+  "CD_MUN": 2924652,
+  "NM_MUN": "Pintadas"
+ },
+ {
+  "CD_MUN": 2924702,
+  "NM_MUN": "Piripá"
+ },
+ {
+  "CD_MUN": 2924801,
+  "NM_MUN": "Piritiba"
+ },
+ {
+  "CD_MUN": 2924900,
+  "NM_MUN": "Planaltino"
+ },
+ {
+  "CD_MUN": 2925006,
+  "NM_MUN": "Planalto"
+ },
+ {
+  "CD_MUN": 2925105,
+  "NM_MUN": "Poções"
+ },
+ {
+  "CD_MUN": 2925253,
+  "NM_MUN": "Ponto Novo"
+ },
+ {
+  "CD_MUN": 2925402,
+  "NM_MUN": "Potiraguá"
+ },
+ {
+  "CD_MUN": 2925600,
+  "NM_MUN": "Presidente Dutra"
+ },
+ {
+  "CD_MUN": 2925709,
+  "NM_MUN": "Presidente Jânio Quadros"
+ },
+ {
+  "CD_MUN": 2925808,
+  "NM_MUN": "Queimadas"
+ },
+ {
+  "CD_MUN": 2925907,
+  "NM_MUN": "Quijingue"
+ },
+ {
+  "CD_MUN": 2925931,
+  "NM_MUN": "Quixabeira"
+ },
+ {
+  "CD_MUN": 2925956,
+  "NM_MUN": "Rafael Jambeiro"
+ },
+ {
+  "CD_MUN": 2926004,
+  "NM_MUN": "Remanso"
+ },
+ {
+  "CD_MUN": 2926103,
+  "NM_MUN": "Retirolândia"
+ },
+ {
+  "CD_MUN": 2926202,
+  "NM_MUN": "Riachão das Neves"
+ },
+ {
+  "CD_MUN": 2926301,
+  "NM_MUN": "Riachão do Jacuípe"
+ },
+ {
+  "CD_MUN": 2926400,
+  "NM_MUN": "Riacho de Santana"
+ },
+ {
+  "CD_MUN": 2926509,
+  "NM_MUN": "Ribeira do Amparo"
+ },
+ {
+  "CD_MUN": 2926608,
+  "NM_MUN": "Ribeira do Pombal"
+ },
+ {
+  "CD_MUN": 2926657,
+  "NM_MUN": "Ribeirão do Largo"
+ },
+ {
+  "CD_MUN": 2926707,
+  "NM_MUN": "Rio de Contas"
+ },
+ {
+  "CD_MUN": 2926806,
+  "NM_MUN": "Rio do Antônio"
+ },
+ {
+  "CD_MUN": 2926905,
+  "NM_MUN": "Rio do Pires"
+ },
+ {
+  "CD_MUN": 2927101,
+  "NM_MUN": "Rodelas"
+ },
+ {
+  "CD_MUN": 2927200,
+  "NM_MUN": "Ruy Barbosa"
+ },
+ {
+  "CD_MUN": 2927507,
+  "NM_MUN": "Santa Bárbara"
+ },
+ {
+  "CD_MUN": 2927606,
+  "NM_MUN": "Santa Brígida"
+ },
+ {
+  "CD_MUN": 2927903,
+  "NM_MUN": "Santa Inês"
+ },
+ {
+  "CD_MUN": 2928000,
+  "NM_MUN": "Santaluz"
+ },
+ {
+  "CD_MUN": 2928109,
+  "NM_MUN": "Santa Maria da Vitória"
+ },
+ {
+  "CD_MUN": 2928208,
+  "NM_MUN": "Santana"
+ },
+ {
+  "CD_MUN": 2928307,
+  "NM_MUN": "Santanópolis"
+ },
+ {
+  "CD_MUN": 2928406,
+  "NM_MUN": "Santa Rita de Cássia"
+ },
+ {
+  "CD_MUN": 2928505,
+  "NM_MUN": "Santa Terezinha"
+ },
+ {
+  "CD_MUN": 2928802,
+  "NM_MUN": "Santo Estêvão"
+ },
+ {
+  "CD_MUN": 2928901,
+  "NM_MUN": "SÃO DESIDÉRIO"
+ },
+ {
+  "CD_MUN": 2928950,
+  "NM_MUN": "São Domingos"
+ },
+ {
+  "CD_MUN": 2929057,
+  "NM_MUN": "São Félix do Coribe"
+ },
+ {
+  "CD_MUN": 2929255,
+  "NM_MUN": "São Gabriel"
+ },
+ {
+  "CD_MUN": 2929305,
+  "NM_MUN": "SÃO GONÇALO DOS CAMPOS"
+ },
+ {
+  "CD_MUN": 2929370,
+  "NM_MUN": "São José do Jacuípe"
+ },
+ {
+  "CD_MUN": 2929701,
+  "NM_MUN": "Sátiro Dias"
+ },
+ {
+  "CD_MUN": 2929800,
+  "NM_MUN": "Saúde"
+ },
+ {
+  "CD_MUN": 2929909,
+  "NM_MUN": "Seabra"
+ },
+ {
+  "CD_MUN": 2930006,
+  "NM_MUN": "Sebastião Laranjeiras"
+ },
+ {
+  "CD_MUN": 2930105,
+  "NM_MUN": "Senhor do Bonfim"
+ },
+ {
+  "CD_MUN": 2930154,
+  "NM_MUN": "Serra do Ramalho"
+ },
+ {
+  "CD_MUN": 2930204,
+  "NM_MUN": "Sento Sé"
+ },
+ {
+  "CD_MUN": 2930303,
+  "NM_MUN": "Serra Dourada"
+ },
+ {
+  "CD_MUN": 2930402,
+  "NM_MUN": "Serra Preta"
+ },
+ {
+  "CD_MUN": 2930501,
+  "NM_MUN": "Serrinha"
+ },
+ {
+  "CD_MUN": 2930600,
+  "NM_MUN": "Serrolândia"
+ },
+ {
+  "CD_MUN": 2930758,
+  "NM_MUN": "Sítio do Mato"
+ },
+ {
+  "CD_MUN": 2930766,
+  "NM_MUN": "Sítio do Quinto"
+ },
+ {
+  "CD_MUN": 2930774,
+  "NM_MUN": "Sobradinho"
+ },
+ {
+  "CD_MUN": 2930808,
+  "NM_MUN": "Souto Soares"
+ },
+ {
+  "CD_MUN": 2930907,
+  "NM_MUN": "Tabocas do Brejo Velho"
+ },
+ {
+  "CD_MUN": 2931004,
+  "NM_MUN": "Tanhaçu"
+ },
+ {
+  "CD_MUN": 2931053,
+  "NM_MUN": "Tanque Novo"
+ },
+ {
+  "CD_MUN": 2931103,
+  "NM_MUN": "Tanquinho"
+ },
+ {
+  "CD_MUN": 2931301,
+  "NM_MUN": "Tapiramutá"
+ },
+ {
+  "CD_MUN": 2931509,
+  "NM_MUN": "Teofilândia"
+ },
+ {
+  "CD_MUN": 2931806,
+  "NM_MUN": "Tremedal"
+ },
+ {
+  "CD_MUN": 2931905,
+  "NM_MUN": "Tucano"
+ },
+ {
+  "CD_MUN": 2932002,
+  "NM_MUN": "Uauá"
+ },
+ {
+  "CD_MUN": 2932101,
+  "NM_MUN": "Ubaíra"
+ },
+ {
+  "CD_MUN": 2932408,
+  "NM_MUN": "Uibaí"
+ },
+ {
+  "CD_MUN": 2932457,
+  "NM_MUN": "Umburanas"
+ },
+ {
+  "CD_MUN": 2932606,
+  "NM_MUN": "Urandi"
+ },
+ {
+  "CD_MUN": 2932804,
+  "NM_MUN": "Utinga"
+ },
+ {
+  "CD_MUN": 2933000,
+  "NM_MUN": "Valente"
+ },
+ {
+  "CD_MUN": 2933059,
+  "NM_MUN": "Várzea da Roça"
+ },
+ {
+  "CD_MUN": 2933109,
+  "NM_MUN": "Várzea do Poço"
+ },
+ {
+  "CD_MUN": 2933158,
+  "NM_MUN": "Várzea Nova"
+ },
+ {
+  "CD_MUN": 2933307,
+  "NM_MUN": "Vitória da Conquista"
+ },
+ {
+  "CD_MUN": 2933406,
+  "NM_MUN": "Wagner"
+ },
+ {
+  "CD_MUN": 2933455,
+  "NM_MUN": "Wanderley"
+ },
+ {
+  "CD_MUN": 2933604,
+  "NM_MUN": "Xique-Xique"
+ },
+ {
+  "CD_MUN": 3100500,
+  "NM_MUN": "AÇUCENA"
+ },
+ {
+  "CD_MUN": 3100609,
+  "NM_MUN": "ÁGUA BOA"
+ },
+ {
+  "CD_MUN": 3100906,
+  "NM_MUN": "ÁGUAS FORMOSAS"
+ },
+ {
+  "CD_MUN": 3101003,
+  "NM_MUN": "Águas Vermelhas"
+ },
+ {
+  "CD_MUN": 3101102,
+  "NM_MUN": "AIMORÉS"
+ },
+ {
+  "CD_MUN": 3101706,
+  "NM_MUN": "Almenara"
+ },
+ {
+  "CD_MUN": 3101805,
+  "NM_MUN": "ALPERCATA"
+ },
+ {
+  "CD_MUN": 3102209,
+  "NM_MUN": "ALVARENGA"
+ },
+ {
+  "CD_MUN": 3102704,
+  "NM_MUN": "Cachoeira de Pajeú"
+ },
+ {
+  "CD_MUN": 3103405,
+  "NM_MUN": "Araçuaí"
+ },
+ {
+  "CD_MUN": 3104502,
+  "NM_MUN": "ARINOS"
+ },
+ {
+  "CD_MUN": 3104700,
+  "NM_MUN": "ATALÉIA"
+ },
+ {
+  "CD_MUN": 3105202,
+  "NM_MUN": "Bandeira"
+ },
+ {
+  "CD_MUN": 3106507,
+  "NM_MUN": "Berilo"
+ },
+ {
+  "CD_MUN": 3106606,
+  "NM_MUN": "BERTÓPOLIS"
+ },
+ {
+  "CD_MUN": 3106655,
+  "NM_MUN": "Berizal"
+ },
+ {
+  "CD_MUN": 3107307,
+  "NM_MUN": "BOCAIÚVA"
+ },
+ {
+  "CD_MUN": 3108206,
+  "NM_MUN": "BONFINÓPOLIS DE MINAS"
+ },
+ {
+  "CD_MUN": 3108255,
+  "NM_MUN": "Bonito de Minas"
+ },
+ {
+  "CD_MUN": 3108503,
+  "NM_MUN": "BOTUMIRIM"
+ },
+ {
+  "CD_MUN": 3108602,
+  "NM_MUN": "BRASÍLIA DE MINAS"
+ },
+ {
+  "CD_MUN": 3108800,
+  "NM_MUN": "BRAÚNAS"
+ },
+ {
+  "CD_MUN": 3109402,
+  "NM_MUN": "Buritizeiro"
+ },
+ {
+  "CD_MUN": 3110806,
+  "NM_MUN": "CAMPANÁRIO"
+ },
+ {
+  "CD_MUN": 3111150,
+  "NM_MUN": "CAMPO AZUL"
+ },
+ {
+  "CD_MUN": 3112059,
+  "NM_MUN": "CANTAGALO"
+ },
+ {
+  "CD_MUN": 3112653,
+  "NM_MUN": "CAPITÃO ANDRADE"
+ },
+ {
+  "CD_MUN": 3112703,
+  "NM_MUN": "Capitão Enéas"
+ },
+ {
+  "CD_MUN": 3113008,
+  "NM_MUN": "Caraí"
+ },
+ {
+  "CD_MUN": 3113701,
+  "NM_MUN": "CARLOS CHAGAS"
+ },
+ {
+  "CD_MUN": 3113800,
+  "NM_MUN": "CARMÉSIA"
+ },
+ {
+  "CD_MUN": 3115458,
+  "NM_MUN": "CATUJI"
+ },
+ {
+  "CD_MUN": 3115474,
+  "NM_MUN": "Catuti"
+ },
+ {
+  "CD_MUN": 3115706,
+  "NM_MUN": "CENTRAL DE MINAS"
+ },
+ {
+  "CD_MUN": 3116100,
+  "NM_MUN": "Chapada do Norte"
+ },
+ {
+  "CD_MUN": 3116159,
+  "NM_MUN": "CHAPADA GAÚCHA"
+ },
+ {
+  "CD_MUN": 3117009,
+  "NM_MUN": "Comercinho"
+ },
+ {
+  "CD_MUN": 3117836,
+  "NM_MUN": "Cônego Marinho"
+ },
+ {
+  "CD_MUN": 3118403,
+  "NM_MUN": "CONSELHEIRO PENA"
+ },
+ {
+  "CD_MUN": 3118809,
+  "NM_MUN": "CORAÇÃO DE JESUS"
+ },
+ {
+  "CD_MUN": 3119203,
+  "NM_MUN": "COROACI"
+ },
+ {
+  "CD_MUN": 3119500,
+  "NM_MUN": "Coronel Murta"
+ },
+ {
+  "CD_MUN": 3120151,
+  "NM_MUN": "CRISÓLITA"
+ },
+ {
+  "CD_MUN": 3120300,
+  "NM_MUN": "Cristália"
+ },
+ {
+  "CD_MUN": 3120839,
+  "NM_MUN": "CUPARAQUE"
+ },
+ {
+  "CD_MUN": 3120870,
+  "NM_MUN": "Curral de Dentro"
+ },
+ {
+  "CD_MUN": 3122108,
+  "NM_MUN": "DIVINO DAS LARANJEIRAS"
+ },
+ {
+  "CD_MUN": 3122207,
+  "NM_MUN": "DIVINOLÂNDIA DE MINAS"
+ },
+ {
+  "CD_MUN": 3122355,
+  "NM_MUN": "Divisa Alegre"
+ },
+ {
+  "CD_MUN": 3122454,
+  "NM_MUN": "Divisópolis"
+ },
+ {
+  "CD_MUN": 3122470,
+  "NM_MUN": "DOM BOSCO"
+ },
+ {
+  "CD_MUN": 3123106,
+  "NM_MUN": "DORES DE GUANHÃES"
+ },
+ {
+  "CD_MUN": 3123700,
+  "NM_MUN": "ENGENHEIRO CALDAS"
+ },
+ {
+  "CD_MUN": 3124302,
+  "NM_MUN": "Espinosa"
+ },
+ {
+  "CD_MUN": 3125606,
+  "NM_MUN": "Felisburgo"
+ },
+ {
+  "CD_MUN": 3125804,
+  "NM_MUN": "FERNANDES TOURINHO"
+ },
+ {
+  "CD_MUN": 3126208,
+  "NM_MUN": "FORMOSO"
+ },
+ {
+  "CD_MUN": 3126505,
+  "NM_MUN": "Francisco Badaró"
+ },
+ {
+  "CD_MUN": 3126703,
+  "NM_MUN": "Francisco Sá"
+ },
+ {
+  "CD_MUN": 3126752,
+  "NM_MUN": "FRANCISCÓPOLIS"
+ },
+ {
+  "CD_MUN": 3126802,
+  "NM_MUN": "FREI GASPAR"
+ },
+ {
+  "CD_MUN": 3126901,
+  "NM_MUN": "FREI INOCÊNCIO"
+ },
+ {
+  "CD_MUN": 3127057,
+  "NM_MUN": "FRONTEIRA DOS VALES"
+ },
+ {
+  "CD_MUN": 3127073,
+  "NM_MUN": "Fruta de Leite"
+ },
+ {
+  "CD_MUN": 3127305,
+  "NM_MUN": "GALILÉIA"
+ },
+ {
+  "CD_MUN": 3127339,
+  "NM_MUN": "Gameleiras"
+ },
+ {
+  "CD_MUN": 3127354,
+  "NM_MUN": "GLAUCILÂNDIA"
+ },
+ {
+  "CD_MUN": 3127370,
+  "NM_MUN": "GOIABEIRA"
+ },
+ {
+  "CD_MUN": 3127503,
+  "NM_MUN": "GONZAGA"
+ },
+ {
+  "CD_MUN": 3127701,
+  "NM_MUN": "GOVERNADOR VALADARES"
+ },
+ {
+  "CD_MUN": 3127800,
+  "NM_MUN": "Grão Mogol"
+ },
+ {
+  "CD_MUN": 3128006,
+  "NM_MUN": "GUANHÃES"
+ },
+ {
+  "CD_MUN": 3128253,
+  "NM_MUN": "GUARACIAMA"
+ },
+ {
+  "CD_MUN": 3129608,
+  "NM_MUN": "IBIAÍ"
+ },
+ {
+  "CD_MUN": 3129657,
+  "NM_MUN": "Ibiracatu"
+ },
+ {
+  "CD_MUN": 3130051,
+  "NM_MUN": "ICARAÍ DE MINAS"
+ },
+ {
+  "CD_MUN": 3130655,
+  "NM_MUN": "Indaiabira"
+ },
+ {
+  "CD_MUN": 3130903,
+  "NM_MUN": "INHAPIM"
+ },
+ {
+  "CD_MUN": 3131802,
+  "NM_MUN": "ITABIRINHA"
+ },
+ {
+  "CD_MUN": 3132008,
+  "NM_MUN": "ITACAMBIRA"
+ },
+ {
+  "CD_MUN": 3132107,
+  "NM_MUN": "Itacarambi"
+ },
+ {
+  "CD_MUN": 3132305,
+  "NM_MUN": "ITAIPÉ"
+ },
+ {
+  "CD_MUN": 3132701,
+  "NM_MUN": "ITAMBACURI"
+ },
+ {
+  "CD_MUN": 3133204,
+  "NM_MUN": "ITANHOMI"
+ },
+ {
+  "CD_MUN": 3133303,
+  "NM_MUN": "Itaobim"
+ },
+ {
+  "CD_MUN": 3134004,
+  "NM_MUN": "Itinga"
+ },
+ {
+  "CD_MUN": 3134103,
+  "NM_MUN": "ITUETA"
+ },
+ {
+  "CD_MUN": 3134707,
+  "NM_MUN": "Jacinto"
+ },
+ {
+  "CD_MUN": 3135050,
+  "NM_MUN": "Jaíba"
+ },
+ {
+  "CD_MUN": 3135076,
+  "NM_MUN": "JAMPRUCA"
+ },
+ {
+  "CD_MUN": 3135100,
+  "NM_MUN": "Janaúba"
+ },
+ {
+  "CD_MUN": 3135209,
+  "NM_MUN": "Januária"
+ },
+ {
+  "CD_MUN": 3135357,
+  "NM_MUN": "Japonvar"
+ },
+ {
+  "CD_MUN": 3135456,
+  "NM_MUN": "Jenipapo de Minas"
+ },
+ {
+  "CD_MUN": 3135605,
+  "NM_MUN": "JEQUITAÍ"
+ },
+ {
+  "CD_MUN": 3135803,
+  "NM_MUN": "Jequitinhonha"
+ },
+ {
+  "CD_MUN": 3136009,
+  "NM_MUN": "Joaíma"
+ },
+ {
+  "CD_MUN": 3136504,
+  "NM_MUN": "Jordânia"
+ },
+ {
+  "CD_MUN": 3136520,
+  "NM_MUN": "José Gonçalves de Minas"
+ },
+ {
+  "CD_MUN": 3136553,
+  "NM_MUN": "JOSÉ RAYDAN"
+ },
+ {
+  "CD_MUN": 3136579,
+  "NM_MUN": "Josenópolis"
+ },
+ {
+  "CD_MUN": 3136801,
+  "NM_MUN": "JURAMENTO"
+ },
+ {
+  "CD_MUN": 3136959,
+  "NM_MUN": "Juvenília"
+ },
+ {
+  "CD_MUN": 3137007,
+  "NM_MUN": "LADAINHA"
+ },
+ {
+  "CD_MUN": 3137304,
+  "NM_MUN": "LAGOA DOS PATOS"
+ },
+ {
+  "CD_MUN": 3138104,
+  "NM_MUN": "LASSANCE"
+ },
+ {
+  "CD_MUN": 3138351,
+  "NM_MUN": "LEME DO PRADO"
+ },
+ {
+  "CD_MUN": 3138658,
+  "NM_MUN": "Lontra"
+ },
+ {
+  "CD_MUN": 3138682,
+  "NM_MUN": "LUISLÂNDIA"
+ },
+ {
+  "CD_MUN": 3138906,
+  "NM_MUN": "MACHACALIS"
+ },
+ {
+  "CD_MUN": 3139201,
+  "NM_MUN": "MALACACHETA"
+ },
+ {
+  "CD_MUN": 3139250,
+  "NM_MUN": "Mamonas"
+ },
+ {
+  "CD_MUN": 3139300,
+  "NM_MUN": "Manga"
+ },
+ {
+  "CD_MUN": 3139607,
+  "NM_MUN": "MANTENA"
+ },
+ {
+  "CD_MUN": 3140100,
+  "NM_MUN": "MARILAC"
+ },
+ {
+  "CD_MUN": 3140555,
+  "NM_MUN": "Mata Verde"
+ },
+ {
+  "CD_MUN": 3140852,
+  "NM_MUN": "Matias Cardoso"
+ },
+ {
+  "CD_MUN": 3141009,
+  "NM_MUN": "Mato Verde"
+ },
+ {
+  "CD_MUN": 3141405,
+  "NM_MUN": "Medina"
+ },
+ {
+  "CD_MUN": 3141504,
+  "NM_MUN": "MENDES PIMENTEL"
+ },
+ {
+  "CD_MUN": 3141801,
+  "NM_MUN": "MINAS NOVAS"
+ },
+ {
+  "CD_MUN": 3142007,
+  "NM_MUN": "MIRABELA"
+ },
+ {
+  "CD_MUN": 3142254,
+  "NM_MUN": "Miravânia"
+ },
+ {
+  "CD_MUN": 3142700,
+  "NM_MUN": "Montalvânia"
+ },
+ {
+  "CD_MUN": 3142908,
+  "NM_MUN": "Monte Azul"
+ },
+ {
+  "CD_MUN": 3143153,
+  "NM_MUN": "Monte Formoso"
+ },
+ {
+  "CD_MUN": 3143302,
+  "NM_MUN": "MONTES CLAROS"
+ },
+ {
+  "CD_MUN": 3143450,
+  "NM_MUN": "Montezuma"
+ },
+ {
+  "CD_MUN": 3144003,
+  "NM_MUN": "MUTUM"
+ },
+ {
+  "CD_MUN": 3144201,
+  "NM_MUN": "NACIP RAYDAN"
+ },
+ {
+  "CD_MUN": 3144300,
+  "NM_MUN": "NANUQUE"
+ },
+ {
+  "CD_MUN": 3144359,
+  "NM_MUN": "NAQUE"
+ },
+ {
+  "CD_MUN": 3144656,
+  "NM_MUN": "Ninheira"
+ },
+ {
+  "CD_MUN": 3144672,
+  "NM_MUN": "NOVA BELÉM"
+ },
+ {
+  "CD_MUN": 3144904,
+  "NM_MUN": "NOVA MÓDICA"
+ },
+ {
+  "CD_MUN": 3145059,
+  "NM_MUN": "Nova Porteirinha"
+ },
+ {
+  "CD_MUN": 3145307,
+  "NM_MUN": "Novo Cruzeiro"
+ },
+ {
+  "CD_MUN": 3145356,
+  "NM_MUN": "NOVO ORIENTE DE MINAS"
+ },
+ {
+  "CD_MUN": 3145372,
+  "NM_MUN": "Novorizonte"
+ },
+ {
+  "CD_MUN": 3146206,
+  "NM_MUN": "OURO VERDE DE MINAS"
+ },
+ {
+  "CD_MUN": 3146255,
+  "NM_MUN": "Padre Carvalho"
+ },
+ {
+  "CD_MUN": 3146305,
+  "NM_MUN": "Padre Paraíso"
+ },
+ {
+  "CD_MUN": 3146552,
+  "NM_MUN": "Pai Pedro"
+ },
+ {
+  "CD_MUN": 3147956,
+  "NM_MUN": "Patis"
+ },
+ {
+  "CD_MUN": 3148509,
+  "NM_MUN": "PAVÃO"
+ },
+ {
+  "CD_MUN": 3148608,
+  "NM_MUN": "PEÇANHA"
+ },
+ {
+  "CD_MUN": 3148707,
+  "NM_MUN": "Pedra Azul"
+ },
+ {
+  "CD_MUN": 3149150,
+  "NM_MUN": "Pedras de Maria da Cruz"
+ },
+ {
+  "CD_MUN": 3149952,
+  "NM_MUN": "PERIQUITO"
+ },
+ {
+  "CD_MUN": 3150000,
+  "NM_MUN": "PESCADOR"
+ },
+ {
+  "CD_MUN": 3150570,
+  "NM_MUN": "PINTÓPOLIS"
+ },
+ {
+  "CD_MUN": 3151206,
+  "NM_MUN": "Pirapora"
+ },
+ {
+  "CD_MUN": 3152131,
+  "NM_MUN": "PONTO CHIQUE"
+ },
+ {
+  "CD_MUN": 3152170,
+  "NM_MUN": "Ponto dos Volantes"
+ },
+ {
+  "CD_MUN": 3152204,
+  "NM_MUN": "Porteirinha"
+ },
+ {
+  "CD_MUN": 3152402,
+  "NM_MUN": "POTÉ"
+ },
+ {
+  "CD_MUN": 3154309,
+  "NM_MUN": "RESPLENDOR"
+ },
+ {
+  "CD_MUN": 3154457,
+  "NM_MUN": "RIACHINHO"
+ },
+ {
+  "CD_MUN": 3154507,
+  "NM_MUN": "Riacho dos Machados"
+ },
+ {
+  "CD_MUN": 3155603,
+  "NM_MUN": "Rio Pardo de Minas"
+ },
+ {
+  "CD_MUN": 3156502,
+  "NM_MUN": "Rubelita"
+ },
+ {
+  "CD_MUN": 3156601,
+  "NM_MUN": "Rubim"
+ },
+ {
+  "CD_MUN": 3156809,
+  "NM_MUN": "SABINÓPOLIS"
+ },
+ {
+  "CD_MUN": 3157005,
+  "NM_MUN": "Salinas"
+ },
+ {
+  "CD_MUN": 3157104,
+  "NM_MUN": "Salto da Divisa"
+ },
+ {
+  "CD_MUN": 3157377,
+  "NM_MUN": "Santa Cruz de Salinas"
+ },
+ {
+  "CD_MUN": 3157500,
+  "NM_MUN": "SANTA EFIGÊNIA DE MINAS"
+ },
+ {
+  "CD_MUN": 3157609,
+  "NM_MUN": "Santa Fé de Minas"
+ },
+ {
+  "CD_MUN": 3157658,
+  "NM_MUN": "SANTA HELENA DE MINAS"
+ },
+ {
+  "CD_MUN": 3158102,
+  "NM_MUN": "Santa Maria do Salto"
+ },
+ {
+  "CD_MUN": 3158201,
+  "NM_MUN": "SANTA MARIA DO SUAÇUÍ"
+ },
+ {
+  "CD_MUN": 3159506,
+  "NM_MUN": "SANTA RITA DO ITUETO"
+ },
+ {
+  "CD_MUN": 3160454,
+  "NM_MUN": "Santo Antônio do Retiro"
+ },
+ {
+  "CD_MUN": 3160959,
+  "NM_MUN": "SÃO DOMINGOS DAS DORES"
+ },
+ {
+  "CD_MUN": 3161056,
+  "NM_MUN": "SÃO FÉLIX DE MINAS"
+ },
+ {
+  "CD_MUN": 3161106,
+  "NM_MUN": "São Francisco"
+ },
+ {
+  "CD_MUN": 3161601,
+  "NM_MUN": "SÃO GERALDO DA PIEDADE"
+ },
+ {
+  "CD_MUN": 3161650,
+  "NM_MUN": "SÃO GERALDO DO BAIXIO"
+ },
+ {
+  "CD_MUN": 3162252,
+  "NM_MUN": "SÃO JOÃO DA LAGOA"
+ },
+ {
+  "CD_MUN": 3162401,
+  "NM_MUN": "São João da Ponte"
+ },
+ {
+  "CD_MUN": 3162450,
+  "NM_MUN": "São João das Missões"
+ },
+ {
+  "CD_MUN": 3162575,
+  "NM_MUN": "SÃO JOÃO DA MANTENINHA"
+ },
+ {
+  "CD_MUN": 3162658,
+  "NM_MUN": "SÃO JOÃO DO PACUÍ"
+ },
+ {
+  "CD_MUN": 3162708,
+  "NM_MUN": "São João do Paraíso"
+ },
+ {
+  "CD_MUN": 3162807,
+  "NM_MUN": "SÃO JOÃO EVANGELISTA"
+ },
+ {
+  "CD_MUN": 3163003,
+  "NM_MUN": "SÃO JOSÉ DA SAFIRA"
+ },
+ {
+  "CD_MUN": 3163300,
+  "NM_MUN": "SÃO JOSÉ DO DIVINO"
+ },
+ {
+  "CD_MUN": 3163508,
+  "NM_MUN": "SÃO JOSÉ DO JACURI"
+ },
+ {
+  "CD_MUN": 3164100,
+  "NM_MUN": "SÃO PEDRO DO SUAÇUÍ"
+ },
+ {
+  "CD_MUN": 3164209,
+  "NM_MUN": "São Romão"
+ },
+ {
+  "CD_MUN": 3164472,
+  "NM_MUN": "SÃO SEBASTIÃO DO ANTA"
+ },
+ {
+  "CD_MUN": 3164506,
+  "NM_MUN": "SÃO SEBASTIÃO DO MARANHÃO"
+ },
+ {
+  "CD_MUN": 3165503,
+  "NM_MUN": "SARDOÁ"
+ },
+ {
+  "CD_MUN": 3165552,
+  "NM_MUN": "SETUBINHA"
+ },
+ {
+  "CD_MUN": 3166105,
+  "NM_MUN": "SENHORA DO PORTO"
+ },
+ {
+  "CD_MUN": 3166709,
+  "NM_MUN": "SERRA DOS AIMORÉS"
+ },
+ {
+  "CD_MUN": 3166956,
+  "NM_MUN": "Serranópolis de Minas"
+ },
+ {
+  "CD_MUN": 3167707,
+  "NM_MUN": "SOBRÁLIA"
+ },
+ {
+  "CD_MUN": 3168002,
+  "NM_MUN": "Taiobeiras"
+ },
+ {
+  "CD_MUN": 3168051,
+  "NM_MUN": "TAPARUBA"
+ },
+ {
+  "CD_MUN": 3168408,
+  "NM_MUN": "TARUMIRIM"
+ },
+ {
+  "CD_MUN": 3168606,
+  "NM_MUN": "TEÓFILO OTONI"
+ },
+ {
+  "CD_MUN": 3169505,
+  "NM_MUN": "TUMIRITINGA"
+ },
+ {
+  "CD_MUN": 3169703,
+  "NM_MUN": "TURMALINA"
+ },
+ {
+  "CD_MUN": 3170008,
+  "NM_MUN": "UBAÍ"
+ },
+ {
+  "CD_MUN": 3170057,
+  "NM_MUN": "UBAPORANGA"
+ },
+ {
+  "CD_MUN": 3170305,
+  "NM_MUN": "UMBURATIBA"
+ },
+ {
+  "CD_MUN": 3170479,
+  "NM_MUN": "URUANA DE MINAS"
+ },
+ {
+  "CD_MUN": 3170529,
+  "NM_MUN": "URUCUIA"
+ },
+ {
+  "CD_MUN": 3170651,
+  "NM_MUN": "Vargem Grande do Rio Pardo"
+ },
+ {
+  "CD_MUN": 3170800,
+  "NM_MUN": "Várzea da Palma"
+ },
+ {
+  "CD_MUN": 3170909,
+  "NM_MUN": "Varzelândia"
+ },
+ {
+  "CD_MUN": 3171030,
+  "NM_MUN": "Verdelândia"
+ },
+ {
+  "CD_MUN": 3171501,
+  "NM_MUN": "MATHIAS LOBATO"
+ },
+ {
+  "CD_MUN": 3171600,
+  "NM_MUN": "Virgem da Lapa"
+ },
+ {
+  "CD_MUN": 3171808,
+  "NM_MUN": "VIRGINÓPOLIS"
+ },
+ {
+  "CD_MUN": 3171907,
+  "NM_MUN": "VIRGOLÂNDIA"
+ },
+ {
+  "CD_MUN": 3200805,
+  "NM_MUN": "BAIXO GUANDU"
+ },
+ {
+  "CD_MUN": 3202108,
+  "NM_MUN": "ECOPORANGA"
+ },
+ {
+  "CD_MUN": 3202702,
+  "NM_MUN": "ITAGUAÇU"
+ },
+ {
+  "CD_MUN": 3202900,
+  "NM_MUN": "ITARANA"
+ },
+ {
+  "CD_MUN": 3203304,
+  "NM_MUN": "MANTENÓPOLIS"
+ },
+ {
+  "CD_MUN": 3203502,
+  "NM_MUN": "MONTANHA"
+ }
+]
